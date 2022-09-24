@@ -89,18 +89,26 @@ https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="DANTV.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="" group-title="Undefined",DAN TV (720p) [Not 24/7]
 http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="1207" tvg-name="Viwix TV Accion" tvg-logo="https://i2.paste.pics/a6146376c0d3f0076fd9265d2273181a.png", Viwix TV Accion | CL
+https://s2.tvdatta.com:3457/hybrid/play.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-id="1209" tvg-name="Viwix TV Estrenos" tvg-logo="https://i2.paste.pics/a6146376c0d3f0076fd9265d2273181a.png", Viwix TV Estrenos | CL
+https://s2.tvdatta.com:3172/hybrid/play.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-id="1206" tvg-name="Viwix TV Series" tvg-logo="https://i2.paste.pics/a6146376c0d3f0076fd9265d2273181a.png", Viwix TV Series | CL
+https://s2.tvdatta.com:3402/hybrid/play.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-id="1205" tvg-name="Viwix TV Terror" tvg-logo="https://i2.paste.pics/a6146376c0d3f0076fd9265d2273181a.png", Viwix TV Terror | CL
+https://s2.tvdatta.com:3849/hybrid/play.m3u8?PlaylistM3UCL
+
+
+
  
-#EXTINF:-1 tvg-id="1206" tvg-name="Viwix TV Series" tvg-logo="https://i2.paste.pics/a6146376c0d3f0076fd9265d2273181a.png", Viwix TV Series * | CL
-https://cloudvideo.servers10.com:8081/8208/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="1207" tvg-name="Viwix TV Accion" tvg-logo="https://i2.paste.pics/a6146376c0d3f0076fd9265d2273181a.png", Viwix TV Accion * | CL
-https://cloudvideo.servers10.com:8081/8128/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="1209" tvg-name="Viwix TV Estrenos" tvg-logo="https://i2.paste.pics/a6146376c0d3f0076fd9265d2273181a.png", Viwix TV Estrenos * | CL
-https://cloudvideo.servers10.com:8081/8212/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="1205" tvg-name="Viwix TV Terror" tvg-logo="https://i2.paste.pics/a6146376c0d3f0076fd9265d2273181a.png", Viwix TV Terror * | CL
-https://cloudvideo.servers10.com:8081/8206/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="897" tvg-name="Retro Play TV" tvg-logo="https://i2.paste.pics/90f2f266cb4f68333119a06b99d65d10.png", Retro Play TV | CL
 https://v4.tustreaming.cl/retroplaytv/index.m3u8?PlaylistM3UCL
