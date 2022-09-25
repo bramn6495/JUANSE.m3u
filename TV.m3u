@@ -117,6 +117,10 @@ https://cdn4.hostlagarto.com:8081/static/lacaletatv/playlist.m3u8
 #EXTINF:-1 tvg-id="CromTV.do" tvg-logo="https://4.bp.blogspot.com/-nzsd7WtMw8A/XtwNId8McuI/AAAAAAAAAS4/3_IFOIgjC9Ev3VojC0h5YuQQfbk9k8rNACK4BGAYYCw/s265/APPfull2%2Bfull.png" group-title="Undefined",CromTV
 https://cdn4.hostlagarto.com:8081/static/cromtv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/logo_15701161341.jpg" group-title="Chileiptv" , Frecuencia 21 
+https://inliveserver.com:1936/10016/10016/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="732" tvg-name="Ready TV" tvg-logo="https://lh3.googleusercontent.com/-0WEp8Wwui4Q/Xzgal1m0fzI/AAAAAAAA4Uk/rYMFLqx6jsE342dqmqaCzFKNyfygiuIzQCK8BGAsYHg/s0/2020-08-15.png", Ready TV | DO
 http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8?PlaylistM3UCL
 
@@ -161,6 +165,11 @@ http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="186509" tvg-name="aztv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Az%C9%99rbaycan_Televiziya_logo.png/245px-Az%C9%99rbaycan_Televiziya_logo.png" group-title="24/7", aztv
 http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8e2460502f204b225c89d644e88153a8.webp" group-title="Canales de Animacion", Anime Tv | SD
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+https://stmv1.srvif.com/animetv/animetv/chunklist_w1769730028.m3u8
+
 
 #EXTINF:-1 tvg-id="52" tvg-name="Dreiko TV" tvg-logo="https://lh3.googleusercontent.com/-xWaIYbcKgvg/XqxwUMJVw3I/AAAAAAAAyhA/m5qZwYnbFxMujB_7Sk2QJz4HhvdNRqyHQCK8BGAsYHg/s0/2020-05-01.png", Dreiko TV | PA
 https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8?PlaylistM3UCL
