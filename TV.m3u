@@ -162,17 +162,24 @@ http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="186509" tvg-name="aztv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Az%C9%99rbaycan_Televiziya_logo.png/245px-Az%C9%99rbaycan_Televiziya_logo.png" group-title="24/7", aztv
 http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-id="52" tvg-name="Dreiko TV" tvg-logo="https://lh3.googleusercontent.com/-xWaIYbcKgvg/XqxwUMJVw3I/AAAAAAAAyhA/m5qZwYnbFxMujB_7Sk2QJz4HhvdNRqyHQCK8BGAsYHg/s0/2020-05-01.png", Dreiko TV | PA
+https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1363736016155258880/LCGweMBi.jpg" group-title="24-7", EL CHAVO
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="1208" tvg-name="Viwix TV Music" tvg-logo="https://i2.paste.pics/a6146376c0d3f0076fd9265d2273181a.png", Viwix TV Music * | CL
-https://cloudvideo.servers10.com:8081/8210/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="DWEspanol.de" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW Espa�ol (1080p)
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-
 #EXTINF:-1 tvg-id="1208" tvg-name="Viwix TV Music" tvg-logo="https://i2.paste.pics/a6146376c0d3f0076fd9265d2273181a.png", Viwix TV Music | CL
 https://s2.tvdatta.com:3548/hybrid/play.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-id="DWEspanol.de" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW Español (1080p)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
+#EXTINF:-1 tvg-id="276" tvg-name="Canal U" tvg-logo="https://lh3.googleusercontent.com/-bhc1ryCQBss/XjtDRMLA6RI/AAAAAAAAvo8/A5WXhRqhV2EdFzBWINyyhUoqFK1eYWJmQCK8BGAsYHg/s0/2020-02-05.png", Canal U | AR
+https://stream.arcast.live/canalu/canalu/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="1179" tvg-name="Contacto Deportivo" tvg-logo="https://i2.paste.pics/7787d1d2ab3382cc09d2c3fa9bb8720d.png", Contacto Deportivo | PE
+https://live.obslivestream.com/cdeportivo/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="179374" tvg-name="DIRECT TV SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg" group-title="00 - Argentina", DIRECT TV SPORTS
 http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8?PlaylistM3UCL
