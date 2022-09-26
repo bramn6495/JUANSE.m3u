@@ -132,6 +132,34 @@ https://ss3.domint.net:3144/ctv_str/cascaratv/playlist.m3u8
 #EXTINF:-1 tvg-id="HM.do" tvg-logo="https://i.imgur.com/uwOTVWZ.jpg" group-title="Undefined",HM (720p) [Geo-blocked]
 http://cm.hostlagarto.com:8081/Hmtv/hmtv.myStream/playlist.m3u8
 
+#EXTINF:-1 group-title="ENTRETENIMIENTO",  A3S
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/41.m3u8
+
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO",  AXN
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/47.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO",  AXN White
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/48.m3u8
+
+
+#EXTINF:-1 group-title="CINE",  Cinema
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/50.m3u8
+
+#EXTINF:-1 group-title="CINE",  CineCanal
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/64.m3u8
+
+#EXTINF:-1 group-title="CINE",  CineLatino
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/65.m3u8
+
+#EXTINF:-1 group-title="CINE",  Cinemax
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/66.m3u8
+
+
+#EXTINF:-1 group-title="CINE",  De Pelicula
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/69.m3u8
+
+
 #EXTINF:-1 tvg-id="1020" tvg-name="Caracola TV" tvg-logo="https://i2.paste.pics/1c5801e48a6cf804950bd1ce5e78a303.png", Caracola TV * | CL
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8?PlaylistM3UCL
 
@@ -181,6 +209,10 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="276" tvg-name="Canal U" tvg-logo="https://lh3.googleusercontent.com/-bhc1ryCQBss/XjtDRMLA6RI/AAAAAAAAvo8/A5WXhRqhV2EdFzBWINyyhUoqFK1eYWJmQCK8BGAsYHg/s0/2020-02-05.png", Canal U | AR
 https://stream.arcast.live/canalu/canalu/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 group-title="CINE",  AMC
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/44.m3u8
+
+
 #EXTINF:-1 tvg-id="1179" tvg-name="Contacto Deportivo" tvg-logo="https://i2.paste.pics/7787d1d2ab3382cc09d2c3fa9bb8720d.png", Contacto Deportivo | PE
 https://live.obslivestream.com/cdeportivo/index.m3u8?PlaylistM3UCL
 
@@ -199,10 +231,39 @@ https://cloudvideo.servers10.com:8081/8248/index.m3u8?PlaylistM3UCL
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,Real Madrid TV
-https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8#EXTINF:-1 xui-id="95" tvg-id="" tvg-name="Movistar Deportes" tvg-logo="http://gratuita.mrzutv.net:8080/images/K7_UJoGQ-EzbYW6zA6v1EUXsO1XjAA9_gd7yMKSDs0nbkdVjtiBnu6NxHLy4c-U5bmU9CJqhrpfbWWTpFW_wfA.jpg" group-title="DEPORTES",Movistar Deportes	
+http://gratuita.mrzutv.net:8080/play/bp4zbmj3D9K0-IKq-fBElFTRZooIG70WmkjEpKzT9Hw
+
+#EXTINF:-1 xui-id="96" tvg-id="" tvg-name="Movistar Deportes 2" tvg-logo="http://gratuita.mrzutv.net:8080/images/K7_UJoGQ-EzbYW6zA6v1EUXsO1XjAA9_gd7yMKSDs0nE-gJ-SbH_DqDpTPAwPNEvCYYjiSqXAjx-05d_dIfU0A.jpg" group-title="DEPORTES",Movistar Deportes 2	
+http://gratuita.mrzutv.net:8080/play/bp4zbmj3D9K0-IKq-fBElMbHYXBK5Yox_V0Ms6LQNkw
+
+#EXTINF:-1 xui-id="99" tvg-id="" tvg-name="Movistar Liga de Campeones" tvg-logo="http://gratuita.mrzutv.net:8080/images/K7_UJoGQ-EzbYW6zA6v1EUXsO1XjAA9_gd7yMKSDs0lg2L_WFbwJNKqP57p6Njc5CEiRHvn8gZhHb3hKRwyelA.jpg" group-title="DEPORTES",Movistar Liga de Campeones	
+http://gratuita.mrzutv.net:8080/play/bp4zbmj3D9K0-IKq-fBElGMNCqt5Aoq0FpL9frvBaec
 
 #EXTINF:-1 tvg-id="ESportsMax.ve" tvg-logo="https://i.imgur.com/mvNLE8f.png" group-title="Sports",Esports Max [Not 24/7]
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
+
+#EXTINF:-1 xui-id="102" tvg-id="" tvg-name="Argentina - ESPN" tvg-logo="" group-title="DEPORTES",Argentina - ESPN	
+http://gratuita.mrzutv.net:8080/play/bp4zbmj3D9K0-IKq-fBElDUmhmHzoGoO7-iuvX70AmQ
+
+#EXTINF:-1 xui-id="103" tvg-id="" tvg-name="Argentina - ESPN 2" tvg-logo="" group-title="DEPORTES",Argentina - ESPN 2	
+http://gratuita.mrzutv.net:8080/play/bp4zbmj3D9K0-IKq-fBElHRTjeGIqaF0mOjyYSd8cuE
+
+#EXTINF:-1 xui-id="106" tvg-id="" tvg-name="Argentina - ESPN 3
+" tvg-logo="" group-title="DEPORTES",Argentina - ESPN 3
+http://gratuita.mrzutv.net:8080/play/bp4zbmj3D9K0-IKq-fBElEvoP0rwXCFLATY9AbrJ_jY
+
+#EXTINF:-1 xui-id="115" tvg-id="" tvg-name="Sudamerica - DirecTV Sports 2" tvg-logo="" group-title="DEPORTES",Sudamerica - DirecTV Sports 2	
+http://gratuita.mrzutv.net:8080/play/bp4zbmj3D9K0-IKq-fBElGNR0Hm22_-nnI3aiv2GKLg
+
+#EXTINF:-1 xui-id="116" tvg-id="" tvg-name="Sudamerica - DirecTV Sports +" tvg-logo="" group-title="DEPORTES",Sudamerica - DirecTV Sports +	
+http://gratuita.mrzutv.net:8080/play/bp4zbmj3D9K0-IKq-fBElLzng908xJxIMXUPQWy7bMA
+
+#EXTINF:-1 xui-id="108" tvg-id="" tvg-name="Argentina - FOX Sports Premium" tvg-logo="" group-title="DEPORTES",Argentina - FOX Sports Premium	
+http://gratuita.mrzutv.net:8080/play/bp4zbmj3D9K0-IKq-fBElMvhlSGAmN97o4DD6-Ss4Pg
+
+#EXTINF:-1 xui-id="91" tvg-id="" tvg-name="WinSports" tvg-logo="http://gratuita.mrzutv.net:8080/images/K7_UJoGQ-EzbYW6zA6v1EUXsO1XjAA9_gd7yMKSDs0kHWtsQh3ZShn5pDI6hfK3BkpRSn7L3v6bwGVM6EzZ2mQ.jpg" group-title="DEPORTES",WinSports	
+http://gratuita.mrzutv.net:8080/play/bp4zbmj3D9K0-IKq-fBElMlJTCynB_k7lDf847DwPMs
 
 #EXTINF:-1 tvg-id="175154" tvg-name="BEIN SPORTS XTRA �" tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" group-title="00 - Deportes", BEIN SPORTS XTRA �
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a121ad30-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ac3bc3c0-b26f-4c9c-8c94-988af191404a&userId=&serverSideAds=true&PlaylistM3UCL
@@ -217,6 +278,239 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e66968a70f34c0007d050
 
 
 
+
+
+
+
+#EXTINF:-1 group-title="LOCALES",  ADN40
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/42.m3u8
+#EXTINF:-1 group-title="DEPORTES",  Affizionados
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/43.m3u8
+
+#EXTINF:-1 group-title="CONOCIMIENTO",  Animal Planet
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/45.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",  Antena 3
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/46.m3u8
+
+#EXTINF:-1 group-title="DEPORTES",  AyM Sports
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/49.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO",  Corazon
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/51.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",  Mundo
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/52.m3u8
+#EXTINF:-1 group-title="LOCALES",  Azteca 1
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/53.m3u8
+#EXTINF:-1 group-title="LOCALES",  Azteca 7
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/54.m3u8
+#EXTINF:-1 group-title="MUSICA",  Bandamax
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/55.m3u8
+#EXTINF:-1 group-title="DEPORTES",  beIN Sports
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/56.m3u8
+#EXTINF:-1 group-title="DEPORTES",  beIN Sports La Liga
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/57.m3u8
+#EXTINF:-1 group-title="KIDS",  Cartoonito
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/58.m3u8
+#EXTINF:-1 group-title="LOCALES",  Canal 11
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/59.m3u8
+#EXTINF:-1 group-title="LOCALES",  Canal 5
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/60.m3u8
+#EXTINF:-1 group-title="LOCALES",  Las Estrellas
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/61.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO", COLOMBIA | Caracol
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/62.m3u8
+#EXTINF:-1 group-title="KIDS",  Cartoon Network
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/63.m3u8
+
+#EXTINF:-1 group-title="CINE",  CNN en Espanol
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/67.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",  Comedy Central
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/68.m3u8
+
+#EXTINF:-1 group-title="CONOCIMIENTO",  Discovery Channel
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/70.m3u8
+#EXTINF:-1 group-title="CONOCIMIENTO",  HGTV
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/71.m3u8
+#EXTINF:-1 group-title="CONOCIMIENTO",  Discovery en Espanol
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/72.m3u8
+#EXTINF:-1 group-title="CONOCIMIENTO",  Discovery Familia
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/73.m3u8
+#EXTINF:-1 group-title="CONOCIMIENTO",  Discovery H&H
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/74.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",  Discovery ID
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/75.m3u8
+#EXTINF:-1 group-title="KIDS",  Discovery Kids
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/76.m3u8
+#EXTINF:-1 group-title="CONOCIMIENTO",  Discovery Science
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/77.m3u8
+#EXTINF:-1 group-title="CONOCIMIENTO",  Discovery Theater
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/78.m3u8
+#EXTINF:-1 group-title="CONOCIMIENTO",  Discovery TLC
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/79.m3u8
+#EXTINF:-1 group-title="CONOCIMIENTO",  Discovery Turbo
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/80.m3u8
+#EXTINF:-1 group-title="CONOCIMIENTO",  Discovery World
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/81.m3u8
+#EXTINF:-1 group-title="KIDS",  Disney Channel
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/82.m3u8
+#EXTINF:-1 group-title="KIDS",  Disney Jr
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/83.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",  Distrito Comedia
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/85.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",  E!
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/86.m3u8
+#EXTINF:-1 group-title="DEPORTES",  El Garage
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/87.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",  El Gourmet
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/88.m3u8
+#EXTINF:-1 group-title="DEPORTES",  ESPN 2
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/90.m3u8
+#EXTINF:-1 group-title="DEPORTES",  ESPN 3
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/91.m3u8
+#EXTINF:-1 group-title="DEPORTES",  ESPN Deportes
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/92.m3u8
+#EXTINF:-1 group-title="DEPORTES",  ESPN Extra
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/93.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",  Estrella TV
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/94.m3u8
+#EXTINF:-1 group-title="CONOCIMIENTO",  Food Network
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/95.m3u8
+#EXTINF:-1 group-title="LOCALES",  Foro
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/96.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",  Star Channel
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/97.m3u8
+#EXTINF:-1 group-title="PREMIUM",  Universal Crime
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/98.m3u8
+#EXTINF:-1 group-title="PREMIUM",  Un1versal Cinema
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/99.m3u8
+#EXTINF:-1 group-title="PREMIUM",  Universal Reality
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/101.m3u8
+#EXTINF:-1 group-title="PREMIUM",  Universal Premier
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/103.m3u8
+#EXTINF:-1 group-title="DEPORTES",  FOX Sports
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/105.m3u8
+#EXTINF:-1 group-title="DEPORTES",  FOX Sports 2
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/106.m3u8
+#EXTINF:-1 group-title="DEPORTES",  FOX Sports 3
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/107.m3u8
+#EXTINF:-1 group-title="DEPORTES", USA | FS1
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/108.m3u8
+#EXTINF:-1 group-title="DEPORTES", USA | FS2
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/109.m3u8
+#EXTINF:-1 group-title="DEPORTES", CANADA | SPORTSNET EAST
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/110.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",  FX
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/111.m3u8
+#EXTINF:-1 group-title="LOCALES",  NU9VE
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/113.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",  Glitz
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/114.m3u8
+#EXTINF:-1 group-title="DEPORTES",  Gol TV
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/115.m3u8
+#EXTINF:-1 group-title="CINE",  Golden EDGE
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/116.m3u8
+#EXTINF:-1 group-title="CINE",  Golden Plus
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/117.m3u8
+#EXTINF:-1 group-title="PREMIUM",  HBO
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/118.m3u8
+#EXTINF:-1 group-title="PREMIUM",  HBO 2
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/119.m3u8
+#EXTINF:-1 group-title="PREMIUM",  HBO Family
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/120.m3u8
+#EXTINF:-1 group-title="PREMIUM",  HBO Plus
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/121.m3u8
+#EXTINF:-1 group-title="CONOCIMIENTO",  History 2
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/122.m3u8
+#EXTINF:-1 group-title="CONOCIMIENTO",  History Channel
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/123.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",  Hola TV
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/124.m3u8
+#EXTINF:-1 group-title="LOCALES",  Imagen
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/125.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",  Lifetime
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/126.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",  MasChic
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/127.m3u8
+#EXTINF:-1 group-title="PREMIUM",  HBO XTREME
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/128.m3u8
+#EXTINF:-1 group-title="PREMIUM",  HBO POP
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/129.m3u8
+#EXTINF:-1 group-title="REGIONALES PÚBLICOS",  Mexiquense
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/130.m3u8
+#EXTINF:-1 group-title="REGIONALES",  Multimedios
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/131.m3u8
+#EXTINF:-1 group-title="CONOCIMIENTO",  Nat Geo Mundo
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/133.m3u8
+#EXTINF:-1 group-title="CONOCIMIENTO",  National Geographic
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/135.m3u8
+#EXTINF:-1 group-title="KIDS",  Nick
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/136.m3u8
+#EXTINF:-1 group-title="KIDS",  Nick Jr
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/137.m3u8
+#EXTINF:-1 group-title="MUSICA",  Nickmusic
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/138.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",  Pasiones
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/139.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO", COLOMBIA | RCN
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/140.m3u8
+#EXTINF:-1 group-title="MUSICA",  Telehit Musica
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/141.m3u8
+#EXTINF:-1 group-title="PREMIUM",  Showtime
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/142.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",  Sony
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/143.m3u8
+#EXTINF:-1 group-title="CINE",  Space
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/144.m3u8
+#EXTINF:-1 group-title="PREMIUM",  Starz
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/145.m3u8
+#EXTINF:-1 group-title="PREMIUM",  Starz Encore
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/146.m3u8
+#EXTINF:-1 group-title="CINE",  Studio Universal
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/147.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",  SyFy
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/149.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",  TBS
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/150.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",  TCM
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/151.m3u8
+#EXTINF:-1 group-title="INFORMACIÓN",  Teleformula
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/152.m3u8
+#EXTINF:-1 group-title="MUSICA",  Telehit Musica
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/153.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",  Telemundo Int
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/154.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",  TLnovelas
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/155.m3u8
+#EXTINF:-1 group-title="CINE",  TNT
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/156.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",  TNT Series
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/157.m3u8
+#EXTINF:-1 group-title="KIDS",  Tooncast
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/158.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",  TruTV
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/159.m3u8
+#EXTINF:-1 group-title="DEPORTES",  TUDN
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/160.m3u8
+#EXTINF:-1 group-title="INFORMACIÓN",  Meganoticias MX
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/161.m3u8
+#EXTINF:-1 group-title="DEPORTES",  TVC Deportes
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/162.m3u8
+#EXTINF:-1 group-title="DEPORTES",  TyC Sports
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/163.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",  Unicable
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/173.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",  UniMas
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/174.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",  Universal TV
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/175.m3u8
+#EXTINF:-1 group-title="MUSICA",  MTV 00s
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/176.m3u8
+#EXTINF:-1 group-title="MUSICA",  MTV 80s
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/177.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",  Warner
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/178.m3u8
+#EXTINF:-1 group-title="DEPORTES",  Win Sports
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/179.m3u
 
 
 
