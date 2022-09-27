@@ -274,63 +274,37 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c1
 #EXTINF:-1 tvg-id="5e66968a70f34c0007d050be" tvg-chno="709" tvg-logo="https://images.pluto.tv/channels/5e66968a70f34c0007d050be/colorLogoPNG.png" group-title="USA",MLB
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e66968a70f34c0007d050be/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="LOCALES",  ADN40
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/42.m3u8
 #EXTINF:-1 group-title="DEPORTES",  Affizionados
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/43.m3u8
 
 #EXTINF:-1 group-title="CONOCIMIENTO",  Animal Planet
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/45.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",  Antena 3
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/46.m3u8
+
 
 #EXTINF:-1 group-title="DEPORTES",  AyM Sports
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/49.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO",  Corazon
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/51.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",  Mundo
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/52.m3u8
-#EXTINF:-1 group-title="LOCALES",  Azteca 1
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/53.m3u8
-#EXTINF:-1 group-title="LOCALES",  Azteca 7
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/54.m3u8
-#EXTINF:-1 group-title="MUSICA",  Bandamax
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/55.m3u8
+
 #EXTINF:-1 group-title="DEPORTES",  beIN Sports
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/56.m3u8
 #EXTINF:-1 group-title="DEPORTES",  beIN Sports La Liga
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/57.m3u8
-#EXTINF:-1 group-title="KIDS",  Cartoonito
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/58.m3u8
-#EXTINF:-1 group-title="LOCALES",  Canal 11
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/59.m3u8
-#EXTINF:-1 group-title="LOCALES",  Canal 5
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/60.m3u8
+
 #EXTINF:-1 group-title="LOCALES",  Las Estrellas
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/61.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO", COLOMBIA | Caracol
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/62.m3u8
+
 #EXTINF:-1 group-title="KIDS",  Cartoon Network
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/63.m3u8
 
-#EXTINF:-1 group-title="CINE",  CNN en Espanol
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/67.m3u8
+
 #EXTINF:-1 group-title="ENTRETENIMIENTO",  Comedy Central
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/68.m3u8
 
 #EXTINF:-1 group-title="CONOCIMIENTO",  Discovery Channel
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/70.m3u8
-#EXTINF:-1 group-title="CONOCIMIENTO",  HGTV
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/71.m3u8
+
 #EXTINF:-1 group-title="CONOCIMIENTO",  Discovery en Espanol
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/72.m3u8
 #EXTINF:-1 group-title="CONOCIMIENTO",  Discovery Familia
@@ -359,10 +333,7 @@ http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/83.m3u8
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/85.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO",  E!
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/86.m3u8
-#EXTINF:-1 group-title="DEPORTES",  El Garage
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/87.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",  El Gourmet
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/88.m3u8
+
 #EXTINF:-1 group-title="DEPORTES",  ESPN 2
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/90.m3u8
 #EXTINF:-1 group-title="DEPORTES",  ESPN 3
@@ -393,20 +364,10 @@ http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/105.m3u8
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/106.m3u8
 #EXTINF:-1 group-title="DEPORTES",  FOX Sports 3
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/107.m3u8
-#EXTINF:-1 group-title="DEPORTES", USA | FS1
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/108.m3u8
-#EXTINF:-1 group-title="DEPORTES", USA | FS2
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/109.m3u8
-#EXTINF:-1 group-title="DEPORTES", CANADA | SPORTSNET EAST
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/110.m3u8
+
 #EXTINF:-1 group-title="ENTRETENIMIENTO",  FX
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/111.m3u8
-#EXTINF:-1 group-title="LOCALES",  NU9VE
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/113.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",  Glitz
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/114.m3u8
-#EXTINF:-1 group-title="DEPORTES",  Gol TV
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/115.m3u8
+
 #EXTINF:-1 group-title="CINE",  Golden EDGE
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/116.m3u8
 #EXTINF:-1 group-title="CINE",  Golden Plus
@@ -419,18 +380,8 @@ http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/119.m3u8
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/120.m3u8
 #EXTINF:-1 group-title="PREMIUM",  HBO Plus
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/121.m3u8
-#EXTINF:-1 group-title="CONOCIMIENTO",  History 2
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/122.m3u8
-#EXTINF:-1 group-title="CONOCIMIENTO",  History Channel
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/123.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",  Hola TV
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/124.m3u8
-#EXTINF:-1 group-title="LOCALES",  Imagen
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/125.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",  Lifetime
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/126.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",  MasChic
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/127.m3u8
+
+
 #EXTINF:-1 group-title="PREMIUM",  HBO XTREME
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/128.m3u8
 #EXTINF:-1 group-title="PREMIUM",  HBO POP
@@ -451,10 +402,7 @@ http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/137.m3u8
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/138.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO",  Pasiones
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/139.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO", COLOMBIA | RCN
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/140.m3u8
-#EXTINF:-1 group-title="MUSICA",  Telehit Musica
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/141.m3u8
+
 #EXTINF:-1 group-title="PREMIUM",  Showtime
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/142.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO",  Sony
@@ -473,40 +421,17 @@ http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/149.m3u8
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/150.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO",  TCM
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/151.m3u8
-#EXTINF:-1 group-title="INFORMACIÓN",  Teleformula
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/152.m3u8
-#EXTINF:-1 group-title="MUSICA",  Telehit Musica
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/153.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",  Telemundo Int
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/154.m3u8
+
 #EXTINF:-1 group-title="ENTRETENIMIENTO",  TLnovelas
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/155.m3u8
 #EXTINF:-1 group-title="CINE",  TNT
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/156.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO",  TNT Series
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/157.m3u8
-#EXTINF:-1 group-title="KIDS",  Tooncast
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/158.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",  TruTV
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/159.m3u8
-#EXTINF:-1 group-title="DEPORTES",  TUDN
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/160.m3u8
-#EXTINF:-1 group-title="INFORMACIÓN",  Meganoticias MX
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/161.m3u8
-#EXTINF:-1 group-title="DEPORTES",  TVC Deportes
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/162.m3u8
-#EXTINF:-1 group-title="DEPORTES",  TyC Sports
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/163.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",  Unicable
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/173.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",  UniMas
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/174.m3u8
+
 #EXTINF:-1 group-title="ENTRETENIMIENTO",  Universal TV
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/175.m3u8
-#EXTINF:-1 group-title="MUSICA",  MTV 00s
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/176.m3u8
-#EXTINF:-1 group-title="MUSICA",  MTV 80s
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/177.m3u8
+
 #EXTINF:-1 group-title="ENTRETENIMIENTO",  Warner
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/178.m3u8
 #EXTINF:-1 group-title="DEPORTES",  Win Sports
