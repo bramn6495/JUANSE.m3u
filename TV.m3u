@@ -384,7 +384,9 @@ https://cloudvideo.servers10.com:8081/8248/index.m3u8?PlaylistM3UCL
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,Real Madrid TV
-https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8#EXTINF:-1 xui-id="95" tvg-id="" tvg-name="Movistar Deportes" tvg-logo="http://gratuita.mrzutv.net:8080/images/K7_UJoGQ-EzbYW6zA6v1EUXsO1XjAA9_gd7yMKSDs0nbkdVjtiBnu6NxHLy4c-U5bmU9CJqhrpfbWWTpFW_wfA.jpg" group-title="DEPORTES",Movistar Deportes	
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+
+#EXTINF:-1 xui-id="95" tvg-id="" tvg-name="Movistar Deportes" tvg-logo="http://gratuita.mrzutv.net:8080/images/K7_UJoGQ-EzbYW6zA6v1EUXsO1XjAA9_gd7yMKSDs0nbkdVjtiBnu6NxHLy4c-U5bmU9CJqhrpfbWWTpFW_wfA.jpg" group-title="DEPORTES",Movistar Deportes	
 http://gratuita.mrzutv.net:8080/play/bp4zbmj3D9K0-IKq-fBElFTRZooIG70WmkjEpKzT9Hw
 
 #EXTINF:-1 group-title="DEPORTES",  Win Sports
