@@ -401,6 +401,9 @@ http://gratuita.mrzutv.net:8080/play/bp4zbmj3D9K0-IKq-fBElGMNCqt5Aoq0FpL9frvBaec
 #EXTINF:-1 tvg-id="ESportsMax.ve" tvg-logo="https://i.imgur.com/mvNLE8f.png" group-title="Sports",Esports Max [Not 24/7]
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 
+#EXTINF:-1 group-title="DEPORTES",  ESPN Deportes
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/92.m3u8
+
 #EXTINF:-1 group-title="DEPORTES",  ESPN 2
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/90.m3u8
 
