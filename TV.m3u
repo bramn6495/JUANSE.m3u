@@ -407,9 +407,8 @@ http://gratuita.mrzutv.net:8080/play/bp4zbmj3D9K0-IKq-fBElDUmhmHzoGoO7-iuvX70AmQ
 #EXTINF:-1 xui-id="103" tvg-id="" tvg-name="Argentina - ESPN 2" tvg-logo="" group-title="DEPORTES",Argentina - ESPN 2	
 http://gratuita.mrzutv.net:8080/play/bp4zbmj3D9K0-IKq-fBElHRTjeGIqaF0mOjyYSd8cuE
 
-#EXTINF:-1 xui-id="106" tvg-id="" tvg-name="Argentina - ESPN 3
-" tvg-logo="" group-title="DEPORTES",Argentina - ESPN 3
-http://gratuita.mrzutv.net:8080/play/bp4zbmj3D9K0-IKq-fBElEvoP0rwXCFLATY9AbrJ_jY
+#EXTINF:-1 tvg-id="ESPNTres(North).mx" tvg-name="ESPN 3" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espn3.png" group-title="RECOMENDADOS",ESPN 3
+https://regioplay.xyz/php/SR_REGIO_229022_/tpnuevo03.php?key=SrRegio&c=345&f=.m3u8
 
 #EXTINF:-1 group-title="DEPORTES",  ESPN 2
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/90.m3u8
