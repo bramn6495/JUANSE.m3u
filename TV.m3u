@@ -46,9 +46,6 @@ http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/97.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO",  FX
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/111.m3u8
 
-#EXTINF:-1 tvg-id="474" tvg-name="Latinos Up! TV" tvg-logo="https://lh3.googleusercontent.com/-E4ZhmiDMypI/XzxnbBAnLcI/AAAAAAAA4oQ/ZAvYXo5pj0QDb-wMX0XmFWJmEnPKg-jbACK8BGAsYHg/s0/2020-08-18.png", Latinos Up! TV | US
-https://panel.streamingtv-mediacp.online:1936/8044/8044/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-id="185551" tvg-name="ORBIT  TV" tvg-logo="https://www.m3u.cl/logo/486_Orbit_TV.png" group-title="Sin Categoria", ORBIT  TV
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
 
@@ -161,9 +158,6 @@ https://s2.tvdatta.com:3849/hybrid/play.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="897" tvg-name="Retro Play TV" tvg-logo="https://i2.paste.pics/90f2f266cb4f68333119a06b99d65d10.png", Retro Play TV | CL
 https://v4.tustreaming.cl/retroplaytv/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="710" tvg-name="Am�" tvg-logo="https://lh3.googleusercontent.com/-Wm0tIirwAaI/XzgSgfucd3I/AAAAAAAA4R4/P8FwD68fC00xVm39i-qNZewMWAqG2Be2wCK8BGAsYHg/s0/2020-08-15.jpg", Am� | DO
-https://ss9.domint.net:3040/ame_str/amecanal47/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-id="1140" tvg-name="Nitida TV" tvg-logo="https://i2.paste.pics/d0743d852c7c3b8f6f5996ac0780fefc.png", Nitida TV | DO
 https://live.teledomdr.com:3131/live/nitidatvlive.m3u8?PlaylistM3UCL
 
@@ -176,11 +170,14 @@ https://cdn4.hostlagarto.com:8081/static/cromtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/logo_15701161341.jpg" group-title="Chileiptv" , VILLA TV 
 https://inliveserver.com:1936/10016/10016/playlist.m3u8
 
-#EXTINF:-1 group-title="PREMIUM",  Universal Crime
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/98.m3u8
+#EXTINF:-1 group-title="CINE",  Studio Universal
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/147.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO",  Universal TV
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/175.m3u8
+
+#EXTINF:-1 group-title="PREMIUM",  Universal Crime
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/98.m3u8
 
 #EXTINF:-1 group-title="PREMIUM",  Un1versal Cinema
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/99.m3u8
@@ -206,13 +203,11 @@ http://cm.hostlagarto.com:8081/Hmtv/hmtv.myStream/playlist.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO",  A3S
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/41.m3u8
 
-
 #EXTINF:-1 group-title="ENTRETENIMIENTO",  AXN
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/47.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO",  AXN White
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/48.m3u8
-
 
 #EXTINF:-1 group-title="CINE",  Cinema
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/50.m3u8
@@ -228,7 +223,6 @@ http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/66.m3u8
 
 #EXTINF:-1 group-title="CINE",  De Pelicula
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/69.m3u8
-
 
 #EXTINF:-1 tvg-id="1020" tvg-name="Caracola TV" tvg-logo="https://i2.paste.pics/1c5801e48a6cf804950bd1ce5e78a303.png", Caracola TV * | CL
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8?PlaylistM3UCL
@@ -250,9 +244,6 @@ http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/145.m3u8
 
 #EXTINF:-1 group-title="PREMIUM",  Starz Encore
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/146.m3u8
-
-#EXTINF:-1 group-title="CINE",  Studio Universal
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/147.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO",  SyFy
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/149.m3u8
@@ -278,9 +269,6 @@ http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/156.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO",  TNT Series
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/157.m3u8
 
-#EXTINF:-1 tvg-id="184698" tvg-name=" Orbita TV 25 " tvg-logo="https://i.imgur.com/yCNUpYh.jpg" group-title="01-"El Salvador",  Orbita TV 25 
-https://5dcabf026b188.streamlock.net/orbitatv/livestream/.m3u8?PlaylistM3UC
-
 #EXTINF:-1 tvg-id="177451" tvg-name="Retro Plus TV Se�al 3" tvg-logo="https://www.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png" group-title="Sin Categoria", Retro Plus TV Se�al 3
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8?PlaylistM3UCL
 
@@ -305,6 +293,9 @@ http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/82.m3u8
 #EXTINF:-1 group-title="KIDS",  Disney Jr
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/83.m3u8
 
+#EXTINF:-1 group-title="KIDS",  Discovery Kids
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/76.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8e2460502f204b225c89d644e88153a8.webp" group-title="Canales de Animacion", Anime Tv | SD
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 
@@ -317,15 +308,14 @@ https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/playlist.m3u8
 #EXTINF:-1 tvg-id="1208" tvg-name="Viwix TV Music" tvg-logo="https://i2.paste.pics/a6146376c0d3f0076fd9265d2273181a.png", Viwix TV Music | CL
 https://s2.tvdatta.com:3548/hybrid/play.m3u8?PlaylistM3UCL
 
-
 #EXTINF:-1 tvg-id="DWEspanol.de" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW Español (1080p)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-#EXTINF:-1 group-title="CONOCIMIENTO",  Discovery Channel
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/70.m3u8
-
 #EXTINF:-1 group-title="CONOCIMIENTO",  Animal Planet
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/45.m3u8
+
+#EXTINF:-1 group-title="CONOCIMIENTO",  Discovery Channel
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/70.m3u8
 
 #EXTINF:-1 group-title="CONOCIMIENTO",  Discovery en Espanol
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/72.m3u8
@@ -338,9 +328,6 @@ http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/74.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO",  Discovery ID
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/75.m3u8
-
-#EXTINF:-1 group-title="KIDS",  Discovery Kids
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/76.m3u8
 
 #EXTINF:-1 group-title="CONOCIMIENTO",  Discovery Science
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/77.m3u8
@@ -363,40 +350,14 @@ http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/133.m3u8
 #EXTINF:-1 group-title="CONOCIMIENTO",  National Geographic
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/135.m3u8
 
-#EXTINF:-1 tvg-id="276" tvg-name="Canal U" tvg-logo="https://lh3.googleusercontent.com/-bhc1ryCQBss/XjtDRMLA6RI/AAAAAAAAvo8/A5WXhRqhV2EdFzBWINyyhUoqFK1eYWJmQCK8BGAsYHg/s0/2020-02-05.png", Canal U | AR
-https://stream.arcast.live/canalu/canalu/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="1179" tvg-name="Contacto Deportivo" tvg-logo="https://i2.paste.pics/7787d1d2ab3382cc09d2c3fa9bb8720d.png", Contacto Deportivo | PE
-https://live.obslivestream.com/cdeportivo/index.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-id="179374" tvg-name="DIRECT TV SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg" group-title="00 - Argentina", DIRECT TV SPORTS
 http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="1254" tvg-name="City Sports TV" tvg-logo="https://i2.paste.pics/c767dc0905ee282c6ea1b565625e7ca7.png", City Sports TV | AR
 https://videosenlared.fullstreaming.ar:3884/live/citysportslive.m3u8?PlaylistM3UCL
 
-
-#EXTINF:-1 tvg-id="1170" tvg-name="MZ Sports" tvg-logo="https://i2.paste.pics/c62d925b201bdb9d034e4d582d62abf2.png", MZ Sports | CR
-https://cloudvideo.servers10.com:8081/8248/index.m3u8?PlaylistM3UCL
-
-
-#EXTINF:-1 tvg-id="1100" tvg-name="DEPORTV" tvg-logo="https://i2.paste.pics/7b99edf751cc110abb5fd3f040e558b8.png", DEPORTV | AR
-https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1,Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
-
-#EXTINF:-1 xui-id="95" tvg-id="" tvg-name="Movistar Deportes" tvg-logo="http://gratuita.mrzutv.net:8080/images/K7_UJoGQ-EzbYW6zA6v1EUXsO1XjAA9_gd7yMKSDs0nbkdVjtiBnu6NxHLy4c-U5bmU9CJqhrpfbWWTpFW_wfA.jpg" group-title="DEPORTES",Movistar Deportes	
-http://gratuita.mrzutv.net:8080/play/bp4zbmj3D9K0-IKq-fBElFTRZooIG70WmkjEpKzT9Hw
-
-#EXTINF:-1 group-title="DEPORTES",  Win Sports
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/179.m3u
-
-#EXTINF:-1 xui-id="96" tvg-id="" tvg-name="Movistar Deportes 2" tvg-logo="http://gratuita.mrzutv.net:8080/images/K7_UJoGQ-EzbYW6zA6v1EUXsO1XjAA9_gd7yMKSDs0nE-gJ-SbH_DqDpTPAwPNEvCYYjiSqXAjx-05d_dIfU0A.jpg" group-title="DEPORTES",Movistar Deportes 2	
-http://gratuita.mrzutv.net:8080/play/bp4zbmj3D9K0-IKq-fBElMbHYXBK5Yox_V0Ms6LQNkw
-
-#EXTINF:-1 xui-id="99" tvg-id="" tvg-name="Movistar Liga de Campeones" tvg-logo="http://gratuita.mrzutv.net:8080/images/K7_UJoGQ-EzbYW6zA6v1EUXsO1XjAA9_gd7yMKSDs0lg2L_WFbwJNKqP57p6Njc5CEiRHvn8gZhHb3hKRwyelA.jpg" group-title="DEPORTES",Movistar Liga de Campeones	
-http://gratuita.mrzutv.net:8080/play/bp4zbmj3D9K0-IKq-fBElGMNCqt5Aoq0FpL9frvBaec
 
 #EXTINF:-1 tvg-id="ESportsMax.ve" tvg-logo="https://i.imgur.com/mvNLE8f.png" group-title="Sports",Esports Max [Not 24/7]
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
@@ -413,15 +374,6 @@ http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/91.m3u8
 #EXTINF:-1 group-title="DEPORTES",  ESPN Extra
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/93.m3u8
 
-#EXTINF:-1 xui-id="115" tvg-id="" tvg-name="Sudamerica - DirecTV Sports 2" tvg-logo="" group-title="DEPORTES",Sudamerica - DirecTV Sports 2	
-http://gratuita.mrzutv.net:8080/play/bp4zbmj3D9K0-IKq-fBElGNR0Hm22_-nnI3aiv2GKLg
-
-#EXTINF:-1 xui-id="116" tvg-id="" tvg-name="Sudamerica - DirecTV Sports +" tvg-logo="" group-title="DEPORTES",Sudamerica - DirecTV Sports +	
-http://gratuita.mrzutv.net:8080/play/bp4zbmj3D9K0-IKq-fBElLzng908xJxIMXUPQWy7bMA
-
-#EXTINF:-1 xui-id="108" tvg-id="" tvg-name="Argentina - FOX Sports Premium" tvg-logo="" group-title="DEPORTES",Argentina - FOX Sports Premium	
-http://gratuita.mrzutv.net:8080/play/bp4zbmj3D9K0-IKq-fBElMvhlSGAmN97o4DD6-Ss4Pg
-
 #EXTINF:-1 group-title="DEPORTES",  FOX Sports
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/105.m3u8
 
@@ -430,9 +382,6 @@ http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/106.m3u8
 
 #EXTINF:-1 group-title="DEPORTES",  FOX Sports 3
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/107.m3u8
-
-#EXTINF:-1 xui-id="91" tvg-id="" tvg-name="WinSports" tvg-logo="http://gratuita.mrzutv.net:8080/images/K7_UJoGQ-EzbYW6zA6v1EUXsO1XjAA9_gd7yMKSDs0kHWtsQh3ZShn5pDI6hfK3BkpRSn7L3v6bwGVM6EzZ2mQ.jpg" group-title="DEPORTES",WinSports	
-http://gratuita.mrzutv.net:8080/play/bp4zbmj3D9K0-IKq-fBElMlJTCynB_k7lDf847DwPMs
 
 #EXTINF:-1 tvg-id="175154" tvg-name="BEIN SPORTS XTRA �" tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" group-title="00 - Deportes", BEIN SPORTS XTRA �
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a121ad30-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ac3bc3c0-b26f-4c9c-8c94-988af191404a&userId=&serverSideAds=true&PlaylistM3UCL
@@ -443,7 +392,7 @@ http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/57.m3u8
 #EXTINF:-1 tvg-id="5df975e2b27cf5000921c102" tvg-chno="740" tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" group-title="USA",beIN SPORTS XTRA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="DEPORTES",  Affizionados#EXTINF:-1 group-title="DEPORTES",  beIN Sports
+#EXTINF:-1 group-title="DEPORTES",  beIN Sports
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/56.m3u8
 
 #EXTINF:-1 tvg-id="5e66968a70f34c0007d050be" tvg-chno="709" tvg-logo="https://images.pluto.tv/channels/5e66968a70f34c0007d050be/colorLogoPNG.png" group-title="USA",MLB
