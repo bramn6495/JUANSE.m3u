@@ -3,13 +3,6 @@
 #EXTINF:-1 tvg-logo="http://www.canalcinemaplus.net/wp-content/uploads/2013/07/logo.png" group-title="CINEYSERIES", CINEMA PLUS
 https://hvtrafico.ddns.net/cinema720/cinema720.stream_720p/playlist.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO",  Comedy Central
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/68.m3u8
-
-#EXTINF:-1 group-title="CINE",  Golden EDGE
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/116.m3u8
-
-
 #EXTINF:-1 group-title="CINE",  Golden Plus
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/117.m3u8
 
@@ -87,7 +80,6 @@ http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/128.m3u8
 
 #EXTINF:-1 group-title="PREMIUM",  HBO POP
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/129.m3u8
-
 
 #EXTINF:-1 tvg-id="240" tvg-name="GEN TV" tvg-logo="https://lh3.googleusercontent.com/-C5rX_zRruQw/X1TKqOXYS-I/AAAAAAAA5UA/IOKCb1AwbRsqtVnLmUBAvTj-8pnxmF7MgCK8BGAsYHg/s0/2020-09-06.png", GEN TV | AR
 https://inliveserver.com:1936/14056/14056/playlist.m3u8?PlaylistM3UCL
