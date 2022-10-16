@@ -6,6 +6,9 @@ https://hvtrafico.ddns.net/cinema720/cinema720.stream_720p/playlist.m3u8
 #EXTINF:-1 group-title="CINE",  Golden Plus
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/117.m3u8
 
+#EXTINF:-1 group-title="CINE",  Golden EDGE
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/116.m3u8
+
 #EXTINF:-1 group-title="CINE",  AMC
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/44.m3u8
 
@@ -93,7 +96,8 @@ https://cloudflare.streamgato.us:3413/live/telecaribehdlive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="162331" tvg-name="NEO TV DIGITAL  " tvg-logo="" group-title="..::Canales Premium::..", NEO TV DIGITAL  
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8?PlaylistM3UCL
 
-
+#EXTINF:-1 group-title="CINE", 388 Paramount
+http://190.61.102.67:31589/play/a01s/index.m3u8
 
 #EXTINF:-1 tvg-id="161371" tvg-name=" MiTV " tvg-logo="" group-title="01-ARGENTINA",  MiTV 
 https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8?PlaylistM3UCL
@@ -103,6 +107,10 @@ https://unlimited1-cl-isp.dps.live/13t/13t.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="1055" tvg-name="Mega Cine TV" tvg-logo="https://i2.paste.pics/07307891d4155ebc2537e54f1407ca1f.png", Mega Cine TV | DO
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="CINE", 372 MC
+http://190.61.102.67:31589/play/a01o/index.m3u8
+
 
 #EXTINF:-1 tvg-id="186555" tvg-name="LA VOZ TV TUCUMAN " tvg-logo="https://pbs.twimg.com/profile_images/1418340072810860545/98a2hUfr.jpg" group-title="00 - Argentina", LA VOZ TV TUCUMAN 
 https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/playlist.m3u8?PlaylistM3UCL
@@ -354,6 +362,9 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 #EXTINF:-1 tvg-id="ESportsMax.ve" tvg-logo="https://i.imgur.com/mvNLE8f.png" group-title="Sports",Esports Max [Not 24/7]
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 
+#EXTINF:-1 group-title="DEPORTES", 342 ESPN
+http://190.61.102.67:31589/play/a064/index.m3u8
+
 #EXTINF:-1 group-title="DEPORTES",  ESPN Deportes
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/92.m3u8
 
@@ -374,6 +385,12 @@ http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/106.m3u8
 
 #EXTINF:-1 group-title="DEPORTES",  FOX Sports 3
 http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/107.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", 336 Claro Sport
+http://190.61.102.67:31589/play/a053/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES",  Gol TV
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/115.m3u8
 
 #EXTINF:-1 tvg-id="175154" tvg-name="BEIN SPORTS XTRA �" tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" group-title="00 - Deportes", BEIN SPORTS XTRA �
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a121ad30-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ac3bc3c0-b26f-4c9c-8c94-988af191404a&userId=&serverSideAds=true&PlaylistM3UCL
