@@ -3,14 +3,7 @@
 #EXTINF:-1 tvg-logo="http://www.canalcinemaplus.net/wp-content/uploads/2013/07/logo.png" group-title="CINEYSERIES", CINEMA PLUS
 https://hvtrafico.ddns.net/cinema720/cinema720.stream_720p/playlist.m3u8
 
-#EXTINF:-1 group-title="CINE",  Golden Plus
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/117.m3u8
 
-#EXTINF:-1 group-title="CINE",  Golden EDGE
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/116.m3u8
-
-#EXTINF:-1 group-title="CINE",  AMC
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/44.m3u8
 
 #EXTINF:-1 tvg-id="186550" tvg-name="CGTN ESPA�OL " tvg-logo="https://pbs.twimg.com/profile_images/1328910145783414785/MKeuNn8V_400x400.jpg" group-title="01-ARGENTINA", CGTN ESPA�OL 
 http://livees.cgtn.com/1000e/prog_index.m3u8?PlaylistM3UCL
@@ -18,17 +11,6 @@ http://livees.cgtn.com/1000e/prog_index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Novelisima.us" tvg-logo="https://www.novelisima.com/assets/images/logo.png" group-title="Series",Novelísima [Not 24/7]
 https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/master.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO",  Pasiones
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/139.m3u8
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO",  Corazon
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/51.m3u8
-
-#EXTINF:-1 group-title="LOCALES",  Las Estrellas
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/61.m3u8
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO",  TLnovelas
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/155.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-EuD3NFEVxqo/XwcVyOUbDHI/AAAAAAAA2mo/ZUkrO1nc7GQPy2ycgo8jROEUH3c9ASw-QCK8BGAsYHg/s0/2020-07-09.png" group-title="CHILE",UCV
 https://unlimited6-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
@@ -36,11 +18,6 @@ https://unlimited6-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1,City TV
 https://citytv.cachefly.net/citytv1/citytv1/chunks.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO",  Star Channel
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/97.m3u8
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO",  FX
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/111.m3u8
 
 #EXTINF:-1 tvg-id="185551" tvg-name="ORBIT  TV" tvg-logo="https://www.m3u.cl/logo/486_Orbit_TV.png" group-title="Sin Categoria", ORBIT  TV
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
@@ -66,29 +43,36 @@ https://panel.seo.tv.bo:3645/live/franzleonel0live.m3u8
 #EXTINF:-1 tvg-id="SEOTVNovelas.bo" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/Seo.Tv.sat/picture?width=300&height=300" group-title="Series",SEO TV Novelas (540p) [Not 24/7]
 https://panel.seo.tv.bo:3337/live/franzbalboa2live.m3u8
 
-#EXTINF:-1 group-title="PREMIUM",  HBO
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/118.m3u8
-
-#EXTINF:-1 group-title="PREMIUM",  HBO 2
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/119.m3u8
-
-#EXTINF:-1 group-title="PREMIUM",  HBO Family
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/120.m3u8
-
-#EXTINF:-1 group-title="PREMIUM",  HBO Plus
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/121.m3u8
-
-#EXTINF:-1 group-title="PREMIUM",  HBO XTREME
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/128.m3u8
-
-#EXTINF:-1 group-title="PREMIUM",  HBO POP
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/129.m3u8
 
 #EXTINF:-1 tvg-id="240" tvg-name="GEN TV" tvg-logo="https://lh3.googleusercontent.com/-C5rX_zRruQw/X1TKqOXYS-I/AAAAAAAA5UA/IOKCb1AwbRsqtVnLmUBAvTj-8pnxmF7MgCK8BGAsYHg/s0/2020-09-06.png", GEN TV | AR
 https://inliveserver.com:1936/14056/14056/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="GDMTV.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i0.wp.com/www.gdm.do/wp-content/uploads/2020/01/Logo-GDM.png?w=696&ssl=1" group-title="Undefined",GDMTV (720p) [Not 24/7]
 https://ss2.domint.net:3200/gdm_str/gdmtv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="146" tvg-name="Promar TV" tvg-logo="https://lh3.googleusercontent.com/-9BWoKXWGkL8/Xxzv1rANFBI/AAAAAAAA3aw/DiZRzBM-OpgDJ_m32kNsUqCXr9qBjincgCK8BGAsYHg/s0/2020-07-25.png", Promar TV | VE
+https://vcp.myplaytv.com/promar/promar/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-id="149" tvg-name="Televen" tvg-logo="https://lh3.googleusercontent.com/-nBbGq_RWnok/X0qS8YPABSI/AAAAAAAA5Dc/32KE05nln3QG3b_qRZ6hXqDG8CEYtTO2wCK8BGAsYHg/s0/2020-08-29.jpg", Televen | VE
+https://cloud.streamingconnect.tv/hls/televen/televenweb.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-id="499" tvg-name="Telesur" tvg-logo="https://lh3.googleusercontent.com/-CAaBUIZOgpc/XbInLO0y7XI/AAAAAAAAro8/uyF1cG5j5XcZHIDofhFJT2q00gjKsTl0wCK8BGAsYHg/s0/2019-10-24.png", Telesur | VE
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-id="518" tvg-name="TVS Maracay" tvg-logo="https://lh3.googleusercontent.com/-opdSbo77LkM/YEtiwd5aljI/AAAAAAABAkw/zfF3b8WRKCkMiaVpD4zlHy0siTQmvlXRgCK8BGAsYHg/s512/2021-03-12.png", TVS Maracay | VE
+https://vcp3.myplaytv.com/tvs/tvs/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-id="1224" tvg-name="TRV" tvg-logo="https://i2.paste.pics/691fbd76ac69d53faecf3480cecd4826.png", TRV | VE
+https://vcp3.myplaytv.com/trv/trv/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-id="1228" tvg-name="Telesol" tvg-logo="https://i2.paste.pics/6ce00e14d50fd87b8553b9c96201de3d.png", Telesol | VE
+https://vcp2.myplaytv.com/telesol/telesol/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="844" tvg-name="Tele Caribe" tvg-logo="https://lh3.googleusercontent.com/-6MRGKA6xep4/YIjDNG_x63I/AAAAAAABCBQ/NDP9jxf642I5YMN0sfiBWwHVhq2eVSIWgCK8BGAsYHg/s512/2021-04-27.png", Tele Caribe | DO
 https://cloudflare.streamgato.us:3413/live/telecaribehdlive.m3u8?PlaylistM3UCL
@@ -115,11 +99,6 @@ http://190.61.102.67:31589/play/a01o/index.m3u8
 #EXTINF:-1 tvg-id="186555" tvg-name="LA VOZ TV TUCUMAN " tvg-logo="https://pbs.twimg.com/profile_images/1418340072810860545/98a2hUfr.jpg" group-title="00 - Argentina", LA VOZ TV TUCUMAN 
 https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO",  Distrito Comedia
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/85.m3u8
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO",  E!
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/86.m3u8
 
 #EXTINF:-1 tvg-id="185084" tvg-name=" NET TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe8mRepMt027_9_N-xyGTLYQscqVc9T8dz_tzU7RxzVz2lRTlw6VeYOjLeybo9PgMvbCQ&usqp=CAU" group-title="00 - Argentina",  NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8?PlaylistM3UCL
@@ -130,11 +109,6 @@ https://mediacpstreamchile.com:1936/evavision/evavision/playlist.m3u8
 #EXTINF:-1 tvg-id="185830" tvg-name="BAYRES TV " tvg-logo="https://pbs.twimg.com/profile_images/3218050884/c2625c504f541d48a96442d5d1dacb87_400x400.jpeg" group-title="00 - Argentina", BAYRES TV 
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="1016" tvg-name="PlanetaTV Movies" tvg-logo="https://i2.paste.pics/a49ae885facb1146cad8aadff09c4ca7.png", PlanetaTV Movies | CL
-https://scl.edge.grupoz.cl/movie/live/movie.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="1015" tvg-name="PlanetaTV Kids" tvg-logo="https://i2.paste.pics/a49ae885facb1146cad8aadff09c4ca7.png", PlanetaTV Kids | CL
-https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="DANTV.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="" group-title="Undefined",DAN TV (720p) [Not 24/7]
 http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/playlist.m3u8
@@ -170,23 +144,6 @@ https://cdn4.hostlagarto.com:8081/static/cromtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/logo_15701161341.jpg" group-title="Chileiptv" , VILLA TV 
 https://inliveserver.com:1936/10016/10016/playlist.m3u8
 
-#EXTINF:-1 group-title="CINE",  Studio Universal
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/147.m3u8
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO",  Universal TV
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/175.m3u8
-
-#EXTINF:-1 group-title="PREMIUM",  Universal Crime
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/98.m3u8
-
-#EXTINF:-1 group-title="PREMIUM",  Un1versal Cinema
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/99.m3u8
-
-#EXTINF:-1 group-title="PREMIUM",  Universal Reality
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/101.m3u8
-
-#EXTINF:-1 group-title="PREMIUM",  Universal Premier
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/103.m3u8
 
 #EXTINF:-1 tvg-id="732" tvg-name="Ready TV" tvg-logo="https://lh3.googleusercontent.com/-0WEp8Wwui4Q/Xzgal1m0fzI/AAAAAAAA4Uk/rYMFLqx6jsE342dqmqaCzFKNyfygiuIzQCK8BGAsYHg/s0/2020-08-15.png", Ready TV | DO
 http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8?PlaylistM3UCL
@@ -200,59 +157,11 @@ https://ss3.domint.net:3144/ctv_str/cascaratv/playlist.m3u8
 #EXTINF:-1 tvg-id="HM.do" tvg-logo="https://i.imgur.com/uwOTVWZ.jpg" group-title="Undefined",HM (720p) [Geo-blocked]
 http://cm.hostlagarto.com:8081/Hmtv/hmtv.myStream/playlist.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO",  A3S
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/41.m3u8
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO",  AXN
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/47.m3u8
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO",  AXN White
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/48.m3u8
-
-#EXTINF:-1 group-title="CINE",  Cinema
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/50.m3u8
-
-#EXTINF:-1 group-title="CINE",  CineCanal
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/64.m3u8
-
-#EXTINF:-1 group-title="CINE",  CineLatino
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/65.m3u8
-
-#EXTINF:-1 group-title="CINE",  Cinemax
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/66.m3u8
-
-#EXTINF:-1 group-title="CINE",  De Pelicula
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/69.m3u8
-
 #EXTINF:-1 tvg-id="1020" tvg-name="Caracola TV" tvg-logo="https://i2.paste.pics/1c5801e48a6cf804950bd1ce5e78a303.png", Caracola TV * | CL
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="163063" tvg-name="ZONDA TV SAN JUAN" tvg-logo="" group-title="Sin Categoria", ZONDA TV SAN JUAN
 https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="PREMIUM",  Showtime
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/142.m3u8
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO",  Sony
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/143.m3u8
-
-#EXTINF:-1 group-title="CINE",  Space
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/144.m3u8
-
-#EXTINF:-1 group-title="PREMIUM",  Starz
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/145.m3u8
-
-#EXTINF:-1 group-title="PREMIUM",  Starz Encore
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/146.m3u8
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO",  SyFy
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/149.m3u8
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO",  TBS
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/150.m3u8
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO",  TCM
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/151.m3u8
 
 #EXTINF:-1 tvg-id="1026" tvg-name="Tele Mix" tvg-logo="https://i2.paste.pics/f5ffafe8c5fcd218d5f15e4849c91891.png", Tele Mix | AR
 https://panel.dattalive.com:443/8068/8068/playlist.m3u8?PlaylistM3UCL
@@ -263,17 +172,8 @@ https://play.amelbasoluciones.co:3257/live/acsnetworklive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1143" tvg-name="Cosmos TV" tvg-logo="https://i2.paste.pics/7b84ec9ab4a77216f5de2b5a23f220a6.png", Cosmos TV | AR
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="CINE",  TNT
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/156.m3u8
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO",  TNT Series
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/157.m3u8
-
 #EXTINF:-1 tvg-id="177451" tvg-name="Retro Plus TV Se�al 3" tvg-logo="https://www.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png" group-title="Sin Categoria", Retro Plus TV Se�al 3
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO",  Warner
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/178.m3u8
 
 #EXTINF:-1 tvg-id="1019" tvg-name="Latino Kids TV" tvg-logo="https://i2.paste.pics/1902290cf19fb0c3de2fa9fa9a03a396.png", Latino Kids TV | UY
 https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8?PlaylistM3UCL
@@ -283,18 +183,6 @@ http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="186509" tvg-name="aztv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Az%C9%99rbaycan_Televiziya_logo.png/245px-Az%C9%99rbaycan_Televiziya_logo.png" group-title="24/7", aztv
 http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="KIDS",  Cartoon Network
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/63.m3u8
-
-#EXTINF:-1 group-title="KIDS",  Disney Channel
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/82.m3u8
-
-#EXTINF:-1 group-title="KIDS",  Disney Jr
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/83.m3u8
-
-#EXTINF:-1 group-title="KIDS",  Discovery Kids
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/76.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8e2460502f204b225c89d644e88153a8.webp" group-title="Canales de Animacion", Anime Tv | SD
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
@@ -311,44 +199,6 @@ https://s2.tvdatta.com:3548/hybrid/play.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="DWEspanol.de" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW Español (1080p)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-#EXTINF:-1 group-title="CONOCIMIENTO",  Animal Planet
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/45.m3u8
-
-#EXTINF:-1 group-title="CONOCIMIENTO",  Discovery Channel
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/70.m3u8
-
-#EXTINF:-1 group-title="CONOCIMIENTO",  Discovery en Espanol
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/72.m3u8
-
-#EXTINF:-1 group-title="CONOCIMIENTO",  Discovery Familia
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/73.m3u8
-
-#EXTINF:-1 group-title="CONOCIMIENTO",  Discovery H&H
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/74.m3u8
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO",  Discovery ID
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/75.m3u8
-
-#EXTINF:-1 group-title="CONOCIMIENTO",  Discovery Science
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/77.m3u8
-
-#EXTINF:-1 group-title="CONOCIMIENTO",  Discovery Theater
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/78.m3u8
-
-#EXTINF:-1 group-title="CONOCIMIENTO",  Discovery TLC
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/79.m3u8
-
-#EXTINF:-1 group-title="CONOCIMIENTO",  Discovery Turbo
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/80.m3u8
-
-#EXTINF:-1 group-title="CONOCIMIENTO",  Discovery World
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/81.m3u8
-
-#EXTINF:-1 group-title="CONOCIMIENTO",  Nat Geo Mundo
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/133.m3u8
-
-#EXTINF:-1 group-title="CONOCIMIENTO",  National Geographic
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/135.m3u8
 
 #EXTINF:-1 tvg-id="179374" tvg-name="DIRECT TV SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg" group-title="00 - Argentina", DIRECT TV SPORTS
 http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8?PlaylistM3UCL
@@ -365,44 +215,15 @@ http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES", 342 ESPN
 http://190.61.102.67:31589/play/a064/index.m3u8
 
-#EXTINF:-1 group-title="DEPORTES",  ESPN Deportes
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/92.m3u8
-
-#EXTINF:-1 group-title="DEPORTES",  ESPN 2
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/90.m3u8
-
-#EXTINF:-1 group-title="DEPORTES",  ESPN 3
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/91.m3u8
-
-#EXTINF:-1 group-title="DEPORTES",  ESPN Extra
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/93.m3u8
-
-#EXTINF:-1 group-title="DEPORTES",  FOX Sports
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/105.m3u8
-
-#EXTINF:-1 group-title="DEPORTES",  FOX Sports 2
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/106.m3u8
-
-#EXTINF:-1 group-title="DEPORTES",  FOX Sports 3
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/107.m3u8
-
 #EXTINF:-1 group-title="DEPORTES", 336 Claro Sport
 http://190.61.102.67:31589/play/a053/index.m3u8
 
-#EXTINF:-1 group-title="DEPORTES",  Gol TV
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/115.m3u8
 
 #EXTINF:-1 tvg-id="175154" tvg-name="BEIN SPORTS XTRA �" tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" group-title="00 - Deportes", BEIN SPORTS XTRA �
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a121ad30-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ac3bc3c0-b26f-4c9c-8c94-988af191404a&userId=&serverSideAds=true&PlaylistM3UCL
 
-#EXTINF:-1 group-title="DEPORTES",  beIN Sports La Liga
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/57.m3u8
-
 #EXTINF:-1 tvg-id="5df975e2b27cf5000921c102" tvg-chno="740" tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" group-title="USA",beIN SPORTS XTRA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 group-title="DEPORTES",  beIN Sports
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/56.m3u8
 
 #EXTINF:-1 tvg-id="5e66968a70f34c0007d050be" tvg-chno="709" tvg-logo="https://images.pluto.tv/channels/5e66968a70f34c0007d050be/colorLogoPNG.png" group-title="USA",MLB
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e66968a70f34c0007d050be/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
