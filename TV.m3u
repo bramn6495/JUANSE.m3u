@@ -4,6 +4,8 @@
 https://hvtrafico.ddns.net/cinema720/cinema720.stream_720p/playlist.m3u8
 
 
+#EXTINF:-1,Tele Islas
+https://5ab772334c39c.streamlock.net/live-teleislas/_definst_/teleislas/chunklist_w1984326701.m3u8
 
 #EXTINF:-1 tvg-id="186550" tvg-name="CGTN ESPA�OL " tvg-logo="https://pbs.twimg.com/profile_images/1328910145783414785/MKeuNn8V_400x400.jpg" group-title="01-ARGENTINA", CGTN ESPA�OL 
 http://livees.cgtn.com/1000e/prog_index.m3u8?PlaylistM3UCL
@@ -18,6 +20,8 @@ https://unlimited6-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1,City TV
 https://citytv.cachefly.net/citytv1/citytv1/chunks.m3u8
 
+#EXTINF:-1,Zoom Tv
+https://canalzoom.itex.com.co:3027/live/canalzoombr1live.m3u8
 
 #EXTINF:-1 tvg-id="185551" tvg-name="ORBIT  TV" tvg-logo="https://www.m3u.cl/logo/486_Orbit_TV.png" group-title="Sin Categoria", ORBIT  TV
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
@@ -43,6 +47,8 @@ https://panel.seo.tv.bo:3645/live/franzleonel0live.m3u8
 #EXTINF:-1 tvg-id="SEOTVNovelas.bo" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/Seo.Tv.sat/picture?width=300&height=300" group-title="Series",SEO TV Novelas (540p) [Not 24/7]
 https://panel.seo.tv.bo:3337/live/franzbalboa2live.m3u8
 
+#EXTINF:-1,Tvc
+https://d6op0qag07k4o.cloudfront.net/hls/tvc_480.m3u8
 
 #EXTINF:-1 tvg-id="240" tvg-name="GEN TV" tvg-logo="https://lh3.googleusercontent.com/-C5rX_zRruQw/X1TKqOXYS-I/AAAAAAAA5UA/IOKCb1AwbRsqtVnLmUBAvTj-8pnxmF7MgCK8BGAsYHg/s0/2020-09-06.png", GEN TV | AR
 https://inliveserver.com:1936/14056/14056/playlist.m3u8?PlaylistM3UCL
@@ -180,6 +186,9 @@ https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8?PlaylistM3UC
 
 #EXTINF:-1 tvg-id="183459" tvg-name="( 133 ) LOCOMOTION " tvg-logo="https://lh3.googleusercontent.com/-_ywhP_VEj2g/XssbwC8yLuI/AAAAAAAA1Ik/fb6iyQQcz6ovOW4alzHoN8-hIwt6eACIACK8BGAsYHg/s0/2020-05-24.png" group-title="00 - Argentina", ( 133 ) LOCOMOTION 
 http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,Cartoon Network
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 
 #EXTINF:-1 tvg-id="186509" tvg-name="aztv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Az%C9%99rbaycan_Televiziya_logo.png/245px-Az%C9%99rbaycan_Televiziya_logo.png" group-title="24/7", aztv
 http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
