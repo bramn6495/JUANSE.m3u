@@ -50,7 +50,7 @@ https://panel.seo.tv.bo:3337/live/franzbalboa2live.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", 206 Universal
 http://190.61.102.67:31589/play/a03d/index.m3u8
 
-EXTINF:-1 group-title="CINE", 160 MultiPremiere
+#EXTINF:-1 group-title="CINE", 160 MultiPremiere
 http://190.61.102.67:31589/play/a01e/index.m3u8
 
 #EXTINF:-1 group-title="CINE", 162 CINELATINO
