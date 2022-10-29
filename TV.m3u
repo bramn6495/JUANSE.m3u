@@ -303,9 +303,6 @@ http://190.61.102.67:31589/play/a03n/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", 336 Claro Sport
 http://190.61.102.67:31589/play/a053/index.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", SKY LA LIGA
-http://190.61.102.67:31589/play/a08m/index.m3u8
-
 #EXTINF:-1 tvg-id="175154" tvg-name="BEIN SPORTS XTRA �" tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" group-title="00 - Deportes", BEIN SPORTS XTRA �
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a121ad30-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ac3bc3c0-b26f-4c9c-8c94-988af191404a&userId=&serverSideAds=true&PlaylistM3UCL
 
