@@ -56,6 +56,12 @@ https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
 #EXTINF:-1 tvg-id="NeoTV.ar" tvg-logo="https://i.imgur.com/Jdd8j10.png" group-title="Undefined",Neo TV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
+
+#EXTINF:-1 tvg-id="Filmstream.nl" tvg-logo="https://i.imgur.com/SWMQzZB.png" group-title="Movies",Filmstream
+https://spi-filmstream-1-nl.samsung.wurl.tv/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-id="185561" tvg-name="WOW TV" tvg-logo="https://lh3.googleusercontent.com/-HpeYE76LC3U/XpNZeGRkVnI/AAAAAAAAx1I/w8gU81KqISsyhBab06b-c82cml45DUQgACK8BGAsYHg/s0/2020-04-12.png" group-title="Sin Categoria", WOW TV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8?PlaylistM3UCL&PlaylistM3UC
 
@@ -251,6 +257,22 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e10
 #EXTINF:-1 tvg-id="1020" tvg-name="Caracola TV" tvg-logo="https://i2.paste.pics/1c5801e48a6cf804950bd1ce5e78a303.png", Caracola TV * | CL
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8?PlaylistM3UCL
 
+
+#EXTINF:-1 tvg-id="Atrescine.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/512px-Atrescine_logo.svg.png" group-title="Movies",A3Cine (1080p)
+https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
+
+
+#EXTINF:-1 tvg-id="Crackle.us" tvg-logo="https://i.imgur.com/7vIsBfF.png" group-title="Movies",Crackle (XUMO) (1080p)
+http://crackle-xumo.amagi.tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="CineSureno.us" tvg-logo="https://i.imgur.com/0tHU0hC.jpg" group-title="Movies",Cine Sureño (1080p)
+https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
+
+
+#EXTINF:-1 tvg-id="PersianaPlus.fr" tvg-logo="https://i.imgur.com/r5q3S7a.png" group-title="Movies",Persiana Plus (1080p)
+http://51.210.199.21/hls/stream.m3u8
+
 #EXTINF:-1 tvg-id="163063" tvg-name="ZONDA TV SAN JUAN" tvg-logo="" group-title="Sin Categoria", ZONDA TV SAN JUAN
 https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8?PlaylistM3UCL
 
@@ -283,6 +305,10 @@ http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,CARTOON NETWORK
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="BabyTV.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="Kids",BabyTV (1080p)
+http://194.163.179.246/slovenci/djeciji/babytv.m3u8
 
 #EXTINF:-1 group-title="KIDS",  DISNEY JR
 http://190.61.102.67:31589/play/a03j/index.m3u8
