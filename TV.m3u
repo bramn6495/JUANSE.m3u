@@ -14,6 +14,9 @@ http://livees.cgtn.com/1000e/prog_index.m3u8?PlaylistM3UCL
 https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/master.m3u8
 
 
+#EXTINF:-1 tvg-id="Tele2000.pe" tvg-logo="https://i.imgur.com/YNZwq9N.png" group-title="Entertainment",Tele2000 (Ayacucho) (720p) [Not 24/7]
+https://servilive.com:3126/live/tele2000live.m3u8
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-EuD3NFEVxqo/XwcVyOUbDHI/AAAAAAAA2mo/ZUkrO1nc7GQPy2ycgo8jROEUH3c9ASw-QCK8BGAsYHg/s0/2020-07-09.png" group-title="CHILE",UCV
 https://unlimited6-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
 
@@ -31,6 +34,27 @@ https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 
 #EXTINF:-1 tvg-id="186429" tvg-name="X24 TUCUMAN  " tvg-logo="http://www.radiosargentina.com.ar/png/VI---X24.png" group-title="00 - Argentina", X24 TUCUMAN  
 https://srv1.zcast.com.br/x24hd/x24hd/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-id="MegaTVArequipa.pe" tvg-logo="https://i.imgur.com/q34E9V4.png" group-title="Undefined",Mega TV (Arequipa) [Not 24/7]
+https://hls.servidor.stream/storage/megatv.m3u8
+
+
+#EXTINF:-1 tvg-id="MegaTV.bo" tvg-logo="https://i.imgur.com/3d4uiZF.png" group-title="Undefined",MegaTV (720p) [Not 24/7]
+https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/playlist.m3u8
+
+8#EXTINF:-1 tvg-id="MegaTVYacuiba.bo" tvg-logo="https://i.imgur.com/FDUkpBQ.png" group-title="Undefined",MegaTV (Yacuiba) (720p) [Not 24/7]
+https://stmv.panel.grupolimalive.com/mega/mega/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="MegaTVJaen.pe" tvg-logo="https://i.imgur.com/zK1YcpJ.png" group-title="Undefined",Mega TV (Jaen) (720p) [Not 24/7]
+https://tv.portalexpress.es:3399/hybrid/play.m3u
+
+#EXTINF:-1 tvg-id="NimTV.gt" tvg-logo="https://i.imgur.com/h7gFzWN.png" group-title="Undefined",Nim TV
+https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
+
+#EXTINF:-1 tvg-id="NeoTV.ar" tvg-logo="https://i.imgur.com/Jdd8j10.png" group-title="Undefined",Neo TV
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 #EXTINF:-1 tvg-id="185561" tvg-name="WOW TV" tvg-logo="https://lh3.googleusercontent.com/-HpeYE76LC3U/XpNZeGRkVnI/AAAAAAAAx1I/w8gU81KqISsyhBab06b-c82cml45DUQgACK8BGAsYHg/s0/2020-04-12.png" group-title="Sin Categoria", WOW TV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8?PlaylistM3UCL&PlaylistM3UC
@@ -104,8 +128,23 @@ https://vcp2.myplaytv.com/telesol/telesol/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="844" tvg-name="Tele Caribe" tvg-logo="https://lh3.googleusercontent.com/-6MRGKA6xep4/YIjDNG_x63I/AAAAAAABCBQ/NDP9jxf642I5YMN0sfiBWwHVhq2eVSIWgCK8BGAsYHg/s512/2021-04-27.png", Tele Caribe | DO
 https://cloudflare.streamgato.us:3413/live/telecaribehdlive.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="162331" tvg-name="NEO TV DIGITAL  " tvg-logo="" group-title="..::Canales Premium::..", NEO TV DIGITAL  
-https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="MyTimemovienetworkMexico.mx" tvg-logo="https://od.lk/s/MF8yMjU5ODE1MzJf/MyTime_260x260.png" group-title="Movies",MyTime movie network Mexico (720p)
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MyTimemovienetworkSpain.es" tvg-logo="https://od.lk/s/MF8yMjU5ODE1MzJf/MyTime_260x260.png" group-title="Movies",MyTime movie network Spain (1080p)
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="OndaDigital.pe" tvg-logo="https://i.imgur.com/3R2emx7.jpg" group-title="General",Onda Digital (720p) [Not 24/7]
+https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="General",Panamericana TV (298p) [Not 24/7]
+https://cdnhd.iblups.com/hls/ptv2.m3u8
+
+
+
 
 #EXTINF:-1 group-title="CINE",  PARAMOUNT
 http://190.61.102.67:31589/play/a01s/index.m3u8
@@ -204,6 +243,11 @@ http://190.61.102.67:31589/play/a01f/index.m3u8
 #EXTINF:-1 tvg-id="HM.do" tvg-logo="https://i.imgur.com/uwOTVWZ.jpg" group-title="Undefined",HM (720p) [Geo-blocked]
 http://cm.hostlagarto.com:8081/Hmtv/hmtv.myStream/playlist.m3u8
 
+
+#EXTINF:-1 tvg-id="PlutoTVCineAccionSpain.es" tvg-logo="https://images.pluto.tv/channels/5f1ac2591dd8880007bb7d6d/colorLogoPNG.png" group-title="Movies",Pluto TV Cine Acción (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d164d92e97a5e107638d2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=904&terminate=false&userId=
+
+
 #EXTINF:-1 tvg-id="1020" tvg-name="Caracola TV" tvg-logo="https://i2.paste.pics/1c5801e48a6cf804950bd1ce5e78a303.png", Caracola TV * | CL
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8?PlaylistM3UCL
 
@@ -222,8 +266,17 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="177451" tvg-name="Retro Plus TV Se�al 3" tvg-logo="https://www.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png" group-title="Sin Categoria", Retro Plus TV Se�al 3
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-id="PlanetaTVAmazonas.pe" tvg-logo="https://i.imgur.com/vl0HCNO.png" group-title="Undefined",Planeta TV (Bagua) (720p) [Not 24/7]
+https://stmv.panel.grupolimalive.com/planeatv/planeatv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="1019" tvg-name="Latino Kids TV" tvg-logo="https://i2.paste.pics/1902290cf19fb0c3de2fa9fa9a03a396.png", Latino Kids TV | UY
 https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="PlanetaJuniorTVSpain.es" tvg-logo="https://images.pluto.tv/channels/609501978c069d00074e0dd2/colorLogoPNG.png" group-title="Kids",Planeta Junior TV
+https://deaplaneta-planetakidz-1-es.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PlanetaTVKids.cl" tvg-logo="https://i.imgur.com/wPeT7UL.png" group-title="Kids",Planeta TV Kids (720p)
+https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="183459" tvg-name="( 133 ) LOCOMOTION " tvg-logo="https://lh3.googleusercontent.com/-_ywhP_VEj2g/XssbwC8yLuI/AAAAAAAA1Ik/fb6iyQQcz6ovOW4alzHoN8-hIwt6eACIACK8BGAsYHg/s0/2020-05-24.png" group-title="00 - Argentina", ( 133 ) LOCOMOTION 
 http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
@@ -284,6 +337,11 @@ https://videosenlared.fullstreaming.ar:3884/live/citysportslive.m3u8?PlaylistM3U
 
 #EXTINF:-1,Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+
+
+#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-logo="https://i.imgur.com/vcs9ELP.png" group-title="Sports",Real Madrid TV US Version (720p) [Not 24/7]
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Real-Madrid.m3u8
+
 
 #EXTINF:-1 tvg-id="ESportsMax.ve" tvg-logo="https://i.imgur.com/mvNLE8f.png" group-title="Sports",Esports Max [Not 24/7]
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
