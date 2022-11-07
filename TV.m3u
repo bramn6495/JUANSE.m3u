@@ -47,25 +47,25 @@ https://panel.seo.tv.bo:3645/live/franzleonel0live.m3u8
 #EXTINF:-1 tvg-id="SEOTVNovelas.bo" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/Seo.Tv.sat/picture?width=300&height=300" group-title="Series",SEO TV Novelas (540p) [Not 24/7]
 https://panel.seo.tv.bo:3337/live/franzbalboa2live.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO", 206 Universal
+#EXTINF:-1 group-title="ENTRETENIMIENTO",  UNIVERSAL TV
 http://190.61.102.67:31589/play/a03d/index.m3u8
 
-#EXTINF:-1 group-title="CINE", 160 MultiPremiere
+#EXTINF:-1 group-title="CINE",  MULTIPREMIER
 http://190.61.102.67:31589/play/a01e/index.m3u8
 
-#EXTINF:-1 group-title="CINE", 162 CINELATINO
+#EXTINF:-1 group-title="CINE",  CINELATINO
 http://190.61.102.67:31589/play/a05v/index.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO", 222 AXN
+#EXTINF:-1 group-title="ENTRETENIMIENTO", AXN
 http://190.61.102.67:31589/play/a05y/index.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO", 224 FX
+#EXTINF:-1 group-title="ENTRETENIMIENTO",  FX
 http://190.61.102.67:31589/play/a05z/index.m3u8
 
-#EXTINF:-1 group-title="CINE", 226 Space MX
+#EXTINF:-1 group-title="CINE",  SPACE MX
 http://190.61.102.67:31589/play/a04x/index.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO", 230 A&E
+#EXTINF:-1 group-title="ENTRETENIMIENTO",  A&E
 http://190.61.102.67:31589/play/a03f/index.m3u8
 
 #EXTINF:-1,Tvc
@@ -107,7 +107,7 @@ https://cloudflare.streamgato.us:3413/live/telecaribehdlive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="162331" tvg-name="NEO TV DIGITAL  " tvg-logo="" group-title="..::Canales Premium::..", NEO TV DIGITAL  
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="CINE", 388 Paramount
+#EXTINF:-1 group-title="CINE",  PARAMOUNT
 http://190.61.102.67:31589/play/a01s/index.m3u8
 
 #EXTINF:-1 tvg-id="161371" tvg-name=" MiTV " tvg-logo="" group-title="01-ARGENTINA",  MiTV 
@@ -119,10 +119,10 @@ https://unlimited1-cl-isp.dps.live/13t/13t.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1055" tvg-name="Mega Cine TV" tvg-logo="https://i2.paste.pics/07307891d4155ebc2537e54f1407ca1f.png", Mega Cine TV | DO
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="CINE", 372 MC
+#EXTINF:-1 group-title="CINE",  MC
 http://190.61.102.67:31589/play/a01o/index.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO", 250 TBS
+#EXTINF:-1 group-title="ENTRETENIMIENTO",  TBS
 http://190.61.102.67:31589/play/a00o/index.m3u8
 
 #EXTINF:-1 tvg-id="186555" tvg-name="LA VOZ TV TUCUMAN " tvg-logo="https://pbs.twimg.com/profile_images/1418340072810860545/98a2hUfr.jpg" group-title="00 - Argentina", LA VOZ TV TUCUMAN 
@@ -158,10 +158,10 @@ https://s2.tvdatta.com:3402/hybrid/play.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1205" tvg-name="Viwix TV Terror" tvg-logo="https://i2.paste.pics/a6146376c0d3f0076fd9265d2273181a.png", Viwix TV Terror | CL
 https://s2.tvdatta.com:3849/hybrid/play.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="CINE", 378 CineCanal O
+#EXTINF:-1 group-title="CINE",  CINECANAL O
 http://190.61.102.67:31589/play/a04q/index.m3u8
 
-#EXTINF:-1 group-title="CINE", 386 StudioUniversal
+#EXTINF:-1 group-title="CINE",  STUDIO UNIVERSAL
 http://190.61.102.67:31589/play/a04o/index.m3u8
 
 #EXTINF:-1 tvg-id="897" tvg-name="Retro Play TV" tvg-logo="https://i2.paste.pics/90f2f266cb4f68333119a06b99d65d10.png", Retro Play TV | CL
@@ -189,16 +189,16 @@ https://tv.ghtelevision.com:3018/live/ghtelevisionlive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="CascaraTV.do" tvg-logo="https://cascaratv.com/wp-content/uploads/2020/06/LOGO-CASCARA1.jpg" group-title="Undefined",Cáscara TV
 https://ss3.domint.net:3144/ctv_str/cascaratv/playlist.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO", 208 SONY
+#EXTINF:-1 group-title="ENTRETENIMIENTO",  SONY
 http://190.61.102.67:31589/play/a002/index.m3u8
 
-#EXTINF:-1 group-title="CINE", 31-370 TNT
+#EXTINF:-1 group-title="CINE",  TNT
 http://190.61.102.67:31589/play/a018/index.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO", 30-214 TNTSE
+#EXTINF:-1 group-title="ENTRETENIMIENTO",  TNT SERIE
 http://190.61.102.67:31589/play/a00m/index.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO", 210 WB
+#EXTINF:-1 group-title="ENTRETENIMIENTO",  WB
 http://190.61.102.67:31589/play/a01f/index.m3u8
 
 #EXTINF:-1 tvg-id="HM.do" tvg-logo="https://i.imgur.com/uwOTVWZ.jpg" group-title="Undefined",HM (720p) [Geo-blocked]
@@ -228,22 +228,22 @@ https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8?PlaylistM3UC
 #EXTINF:-1 tvg-id="183459" tvg-name="( 133 ) LOCOMOTION " tvg-logo="https://lh3.googleusercontent.com/-_ywhP_VEj2g/XssbwC8yLuI/AAAAAAAA1Ik/fb6iyQQcz6ovOW4alzHoN8-hIwt6eACIACK8BGAsYHg/s0/2020-05-24.png" group-title="00 - Argentina", ( 133 ) LOCOMOTION 
 http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1,Cartoon Network
+#EXTINF:-1,CARTOON NETWORK
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 
-#EXTINF:-1 group-title="KIDS", 282 DisneyJR
+#EXTINF:-1 group-title="KIDS",  DISNEY JR
 http://190.61.102.67:31589/play/a03j/index.m3u8
 
-#EXTINF:-1 group-title="LOCALES", 280 OnceKids
+#EXTINF:-1 group-title="LOCALES",  ONCE KIDS
 http://190.61.102.67:31589/play/a04f/index.m3u8
 
-#EXTINF:-1 group-title="KIDS", 23 - 290 CartoonNetwork
+#EXTINF:-1 group-title="KIDS",  CARTOONNETWORK
 http://190.61.102.67:31589/play/a03k/index.m3u8
 
-#EXTINF:-1 group-title="KIDS", 25-292 Discovery kids
+#EXTINF:-1 group-title="KIDS",  DISCOVERY KIDS
 http://190.61.102.67:31589/play/a015/index.m3u8
 
-#EXTINF:-1 group-title="KIDS", 27-286 NICKELODEON
+#EXTINF:-1 group-title="KIDS",  NICKELODEON
 http://190.61.102.67:31589/play/a014/index.m3u8
 
 #EXTINF:-1 tvg-id="186509" tvg-name="aztv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Az%C9%99rbaycan_Televiziya_logo.png/245px-Az%C9%99rbaycan_Televiziya_logo.png" group-title="24/7", aztv
@@ -264,16 +264,16 @@ https://s2.tvdatta.com:3548/hybrid/play.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="DWEspanol.de" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW Español (1080p)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-#EXTINF:-1 group-title="CONOCIMIENTO", 308 Discovery
+#EXTINF:-1 group-title="CONOCIMIENTO",  DISCOVERY CHANNEL
 http://190.61.102.67:31589/play/a03x/index.m3u8
 
-#EXTINF:-1 group-title="CONOCIMIENTO", 312 NatGeo
+#EXTINF:-1 group-title="CONOCIMIENTO", NATGEO
 http://190.61.102.67:31589/play/a01l/index.m3u8
 
-#EXTINF:-1 group-title="CONOCIMIENTO", 318 History
+#EXTINF:-1 group-title="CONOCIMIENTO", HISTORY
 http://190.61.102.67:31589/play/a017/index.m3u8
 
-#EXTINF:-1 group-title="CONOCIMIENTO", 320 History2
+#EXTINF:-1 group-title="CONOCIMIENTO", HISTORY 2
 http://190.61.102.67:31589/play/a00v/index.m3u8
 
 #EXTINF:-1 tvg-id="179374" tvg-name="DIRECT TV SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg" group-title="00 - Argentina", DIRECT TV SPORTS
@@ -288,19 +288,19 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 #EXTINF:-1 tvg-id="ESportsMax.ve" tvg-logo="https://i.imgur.com/mvNLE8f.png" group-title="Sports",Esports Max [Not 24/7]
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", 342 ESPN
+#EXTINF:-1 group-title="DEPORTES",  ESPN
 http://190.61.102.67:31589/play/a064/index.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", 338 ESPN 2
+#EXTINF:-1 group-title="DEPORTES",  ESPN 2
 http://190.61.102.67:31589/play/a063/index.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", 342 ESPN
+#EXTINF:-1 group-title="DEPORTES",  ESPN
 http://190.61.102.67:31589/play/a064/index.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", 344 ESPN3
+#EXTINF:-1 group-title="DEPORTES",  ESPN3
 http://190.61.102.67:31589/play/a03n/index.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", 336 Claro Sport
+#EXTINF:-1 group-title="DEPORTES",  Claro Sport
 http://190.61.102.67:31589/play/a053/index.m3u8
 
 #EXTINF:-1 tvg-id="175154" tvg-name="BEIN SPORTS XTRA �" tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" group-title="00 - Deportes", BEIN SPORTS XTRA �
