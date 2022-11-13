@@ -34,17 +34,11 @@ https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 #EXTINF:-1 tvg-id="186429" tvg-name="X24 TUCUMAN  " tvg-logo="http://www.radiosargentina.com.ar/png/VI---X24.png" group-title="00 - Argentina", X24 TUCUMAN  
 https://srv1.zcast.com.br/x24hd/x24hd/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="MegaTVArequipa.pe" tvg-logo="https://i.imgur.com/q34E9V4.png" group-title="Undefined",Mega TV (Arequipa) [Not 24/7]
-https://hls.servidor.stream/storage/megatv.m3u8
-
 #EXTINF:-1 tvg-id="MegaTV.bo" tvg-logo="https://i.imgur.com/3d4uiZF.png" group-title="Undefined",MegaTV (720p) [Not 24/7]
 https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MegaTVYacuiba.bo" tvg-logo="https://i.imgur.com/FDUkpBQ.png" group-title="Undefined",MegaTV (Yacuiba) (720p) [Not 24/7]
 https://stmv.panel.grupolimalive.com/mega/mega/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MegaTVJaen.pe" tvg-logo="https://i.imgur.com/zK1YcpJ.png" group-title="Undefined",Mega TV (Jaen) (720p) [Not 24/7]
-https://tv.portalexpress.es:3399/hybrid/play.m3u
 
 #EXTINF:-1 tvg-id="NimTV.gt" tvg-logo="https://i.imgur.com/h7gFzWN.png" group-title="Undefined",Nim TV
 https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
