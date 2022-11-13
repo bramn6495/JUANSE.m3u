@@ -20,23 +20,10 @@ https://servilive.com:3126/live/tele2000live.m3u8
 https://unlimited6-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,City TV
-https://citytv.cachefly.net/citytv1/citytv1/chunks.m3u8
-
-
-#EXTINF:-1 tvg-id="Horrify.us" tvg-logo="https://i.imgur.com/NCbpYa4.png" group-title="Movies",Horrify (1080p)
-https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
-
-
-#EXTINF:-1 tvg-id="MovieBox.mn" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movie_box_mn.png" group-title="Movies",Movie box
-https://cdn1.skygo.mn/live/disk1/Moviebox/HLS-FTA/Moviebox.m3u8
-
+https://citytv.cachefly.net/citytv1/citytv1/chunks.m3u
 
 #EXTINF:-1 tvg-id="TelecineAction.br" tvg-logo="https://i.imgur.com/BHYWG0h.png" group-title="Movies",TELE CINE ACTION (720p)
 http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="TopCine.us" tvg-logo="https://i.imgur.com/DFEKx5N.png" group-title="Movies",Top Cine (1080p)
-https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 
 #EXTINF:-1,Zoom Tv
 https://canalzoom.itex.com.co:3027/live/canalzoombr1live.m3u8
@@ -67,12 +54,6 @@ https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
 
 #EXTINF:-1 tvg-id="NeoTV.ar" tvg-logo="https://i.imgur.com/Jdd8j10.png" group-title="Undefined",Neo TV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
-
-
-#EXTINF:-1 tvg-id="Filmstream.nl" tvg-logo="https://i.imgur.com/SWMQzZB.png" group-title="Movies",Filmstream
-https://spi-filmstream-1-nl.samsung.wurl.tv/playlist.m3u8
-
-
 
 #EXTINF:-1 tvg-id="185561" tvg-name="WOW TV" tvg-logo="https://lh3.googleusercontent.com/-HpeYE76LC3U/XpNZeGRkVnI/AAAAAAAAx1I/w8gU81KqISsyhBab06b-c82cml45DUQgACK8BGAsYHg/s0/2020-04-12.png" group-title="Sin Categoria", WOW TV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8?PlaylistM3UCL&PlaylistM3UC
@@ -123,15 +104,6 @@ https://ss2.domint.net:3200/gdm_str/gdmtv/playlist.m3u8
 #EXTINF:-1 tvg-id="146" tvg-name="Promar TV" tvg-logo="https://lh3.googleusercontent.com/-9BWoKXWGkL8/Xxzv1rANFBI/AAAAAAAA3aw/DiZRzBM-OpgDJ_m32kNsUqCXr9qBjincgCK8BGAsYHg/s0/2020-07-25.png", Promar TV | VE
 https://vcp.myplaytv.com/promar/promar/playlist.m3u8?PlaylistM3UCL
 
-
-#EXTINF:-1 tvg-id="149" tvg-name="Televen" tvg-logo="https://lh3.googleusercontent.com/-nBbGq_RWnok/X0qS8YPABSI/AAAAAAAA5Dc/32KE05nln3QG3b_qRZ6hXqDG8CEYtTO2wCK8BGAsYHg/s0/2020-08-29.jpg", Televen | VE
-https://cloud.streamingconnect.tv/hls/televen/televenweb.m3u8?PlaylistM3UCL
-
-
-#EXTINF:-1 tvg-id="499" tvg-name="Telesur" tvg-logo="https://lh3.googleusercontent.com/-CAaBUIZOgpc/XbInLO0y7XI/AAAAAAAAro8/uyF1cG5j5XcZHIDofhFJT2q00gjKsTl0wCK8BGAsYHg/s0/2019-10-24.png", Telesur | VE
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UCL
-
-
 #EXTINF:-1 tvg-id="518" tvg-name="TVS Maracay" tvg-logo="https://lh3.googleusercontent.com/-opdSbo77LkM/YEtiwd5aljI/AAAAAAABAkw/zfF3b8WRKCkMiaVpD4zlHy0siTQmvlXRgCK8BGAsYHg/s512/2021-03-12.png", TVS Maracay | VE
 https://vcp3.myplaytv.com/tvs/tvs/playlist.m3u8?PlaylistM3UCL
 
@@ -146,23 +118,12 @@ https://vcp2.myplaytv.com/telesol/telesol/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="844" tvg-name="Tele Caribe" tvg-logo="https://lh3.googleusercontent.com/-6MRGKA6xep4/YIjDNG_x63I/AAAAAAABCBQ/NDP9jxf642I5YMN0sfiBWwHVhq2eVSIWgCK8BGAsYHg/s512/2021-04-27.png", Tele Caribe | DO
 https://cloudflare.streamgato.us:3413/live/telecaribehdlive.m3u8?PlaylistM3UCL
 
-
-#EXTINF:-1 tvg-id="MyTimemovienetworkMexico.mx" tvg-logo="https://od.lk/s/MF8yMjU5ODE1MzJf/MyTime_260x260.png" group-title="Movies",MyTime movie network Mexico (720p)
-https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MyTimemovienetworkSpain.es" tvg-logo="https://od.lk/s/MF8yMjU5ODE1MzJf/MyTime_260x260.png" group-title="Movies",MyTime movie network Spain (1080p)
-https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
-
-
 #EXTINF:-1 tvg-id="OndaDigital.pe" tvg-logo="https://i.imgur.com/3R2emx7.jpg" group-title="General",Onda Digital (720p) [Not 24/7]
 https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="General",Panamericana TV (298p) [Not 24/7]
 https://cdnhd.iblups.com/hls/ptv2.m3u8
-
-
-
 
 #EXTINF:-1 group-title="CINE",  PARAMOUNT
 http://190.61.102.67:31589/play/a01s/index.m3u8
@@ -262,10 +223,6 @@ http://190.61.102.67:31589/play/a01f/index.m3u8
 http://cm.hostlagarto.com:8081/Hmtv/hmtv.myStream/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="PlutoTVCineAccionSpain.es" tvg-logo="https://images.pluto.tv/channels/5f1ac2591dd8880007bb7d6d/colorLogoPNG.png" group-title="Movies",Pluto TV Cine Acción (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d164d92e97a5e107638d2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=904&terminate=false&userId=
-
-
 #EXTINF:-1 tvg-id="1020" tvg-name="Caracola TV" tvg-logo="https://i2.paste.pics/1c5801e48a6cf804950bd1ce5e78a303.png", Caracola TV * | CL
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8?PlaylistM3UCL
 
@@ -278,10 +235,6 @@ https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
 http://crackle-xumo.amagi.tv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="CineSureno.us" tvg-logo="https://i.imgur.com/0tHU0hC.jpg" group-title="Movies",Cine Sureño (1080p)
-https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
-
-
 #EXTINF:-1 tvg-id="PersianaPlus.fr" tvg-logo="https://i.imgur.com/r5q3S7a.png" group-title="Movies",Persiana Plus (1080p)
 http://51.210.199.21/hls/stream.m3u8
 
@@ -290,12 +243,6 @@ http://51.210.199.27/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="PersianaFamily.fr" tvg-logo="https://i.imgur.com/0AxTJ4Z.png" group-title="Movies",Persiana Family (720p)
 http://51.210.199.19/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="PlutoTVCineRetroFrance.fr" tvg-logo="https://images.pluto.tv/channels/5f8ed168f72fcd0007e56269/colorLogoPNG.png" group-title="Movies",Pluto TV Ciné Rétro (240p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed168f72fcd0007e56269/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
-
-#EXTINF:-1 tvg-id="PlutoTVCineClasicoSpain.es" tvg-logo="https://images.pluto.tv/channels/61373bb45168fe000773eecd/colorLogoPNG.png" group-title="Movies",Pluto TV Cine Clásico (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61373bb45168fe000773eecd/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 tvg-id="163063" tvg-name="ZONDA TV SAN JUAN" tvg-logo="" group-title="Sin Categoria", ZONDA TV SAN JUAN
 https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8?PlaylistM3UCL
@@ -327,9 +274,6 @@ https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
 #EXTINF:-1 tvg-id="183459" tvg-name="( 133 ) LOCOMOTION " tvg-logo="https://lh3.googleusercontent.com/-_ywhP_VEj2g/XssbwC8yLuI/AAAAAAAA1Ik/fb6iyQQcz6ovOW4alzHoN8-hIwt6eACIACK8BGAsYHg/s0/2020-05-24.png" group-title="00 - Argentina", ( 133 ) LOCOMOTION 
 http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1,CARTOON NETWORK 1
-https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
-
 
 #EXTINF:-1 tvg-id="BabyTV.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="Kids",BabyTV (1080p)
 http://194.163.179.246/slovenci/djeciji/babytv.m3u8
@@ -357,9 +301,6 @@ https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="52" tvg-name="Dreiko TV" tvg-logo="https://lh3.googleusercontent.com/-xWaIYbcKgvg/XqxwUMJVw3I/AAAAAAAAyhA/m5qZwYnbFxMujB_7Sk2QJz4HhvdNRqyHQCK8BGAsYHg/s0/2020-05-01.png", Dreiko TV | PA
 https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1363736016155258880/LCGweMBi.jpg" group-title="24-7", EL CHAVO
-https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="1208" tvg-name="Viwix TV Music" tvg-logo="https://i2.paste.pics/a6146376c0d3f0076fd9265d2273181a.png", Viwix TV Music | CL
 https://s2.tvdatta.com:3548/hybrid/play.m3u8?PlaylistM3UCL
@@ -389,10 +330,6 @@ https://videosenlared.fullstreaming.ar:3884/live/citysportslive.m3u8?PlaylistM3U
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 
 
-#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-logo="https://i.imgur.com/vcs9ELP.png" group-title="Sports",Real Madrid TV US Version (720p) [Not 24/7]
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Real-Madrid.m3u8
-
-
 #EXTINF:-1 tvg-id="ESportsMax.ve" tvg-logo="https://i.imgur.com/mvNLE8f.png" group-title="Sports",Esports Max [Not 24/7]
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 
@@ -401,9 +338,6 @@ http://190.61.102.67:31589/play/a064/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTES",  ESPN 2
 http://190.61.102.67:31589/play/a063/index.m3u8
-
-#EXTINF:-1 group-title="DEPORTES",  ESPN
-http://190.61.102.67:31589/play/a064/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTES",  ESPN3
 http://190.61.102.67:31589/play/a03n/index.m3u8
