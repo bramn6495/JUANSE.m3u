@@ -105,10 +105,6 @@ https://inliveserver.com:1936/14056/14056/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="GDMTV.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i0.wp.com/www.gdm.do/wp-content/uploads/2020/01/Logo-GDM.png?w=696&ssl=1" group-title="Undefined",GDMTV (720p) [Not 24/7]
 https://ss2.domint.net:3200/gdm_str/gdmtv/playlist.m3u8
 
-
-#EXTINF:-1 tvg-id="PlanetaTVAmazonas.pe" tvg-logo="https://i.imgur.com/vl0HCNO.png" group-title="Undefined",Planeta TV (Bagua) (720p) [Not 24/7]
-https://stmv.panel.grupolimalive.com/planeatv/planeatv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="PlanetaTVKids.cl" tvg-logo="https://i.imgur.com/wPeT7UL.png" group-title="Kids",Planeta TV Kids (720p)
 https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
 
