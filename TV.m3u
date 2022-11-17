@@ -16,9 +16,6 @@ https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/master.m3u8
 #EXTINF:-1 tvg-id="SEOTVNovelas.bo" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/Seo.Tv.sat/picture?width=300&height=300" group-title="Series",SEO TV Novelas (540p) [Not 24/7]
 https://panel.seo.tv.bo:3337/live/franzbalboa2live.m3u8
 
-#EXTINF:-1 channel-id="pluto-5dcde0cc2efd2700090b7ff4" tvg-id="5dcde0cc2efd2700090b7ff4" tvg-chno="124" tvg-logo="https://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/colorLogoPNG.png" group-title="Entretenimiento",Pluto TV Novelas
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde0cc2efd2700090b7ff4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
 #EXTINF:-1 tvg-id="1032" tvg-name="13 Teleseries" tvg-logo="https://i2.paste.pics/863aea4fb1445b58f89afc7c692ed509.png", 13 Teleseries | CL
 https://unlimited1-cl-isp.dps.live/13t/13t.smil/playlist.m3u8?PlaylistM3UCL
 
@@ -120,22 +117,6 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8?Playl
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO",  E!
 http://190.61.102.67:31589/play/a03i/index.m3u8
-
-
-#EXTINF:-1 channel-id="pluto-5dcb62e63d4d8f0009f36881" tvg-id="5dcb62e63d4d8f0009f36881" tvg-chno="56" tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG.png" group-title="Películas",Pluto TV Cine Acción
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 channel-id="pluto-5dcde437229eff00091b6c30" tvg-id="5dcde437229eff00091b6c30" tvg-chno="52" tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG.png" group-title="Películas",Pluto TV Cine Estelar
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde437229eff00091b6c30/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-
-#EXTINF:-1 channel-id="pluto-5defde6d6c07b50009cf0757" tvg-id="5defde6d6c07b50009cf0757" tvg-chno="81" tvg-logo="https://images.pluto.tv/channels/5defde6d6c07b50009cf0757/colorLogoPNG.png" group-title="Películas",Pluto TV  Nuestro Cine
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-
-#EXTINF:-1 channel-id="pluto-609059dc63be6e0007b4eca6" tvg-id="609059dc63be6e0007b4eca6" tvg-chno="85" tvg-logo="https://images.pluto.tv/channels/609059dc63be6e0007b4eca6/colorLogoPNG.png" group-title="Películas",Pluto TV Cine Clásico
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609059dc63be6e0007b4eca6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
 
 #EXTINF:-1 tvg-id="Bolivision.bo" tvg-logo="https://i.imgur.com/U98Z5zn.png" group-title="Undefined",Bolivisión (480p)
 https://d2byzrnrdb259r.cloudfront.net/hls/live.m3u8
@@ -351,14 +332,6 @@ http://190.61.102.67:31589/play/a017/index.m3u8
 
 #EXTINF:-1 group-title="CONOCIMIENTO", HISTORY 2
 http://190.61.102.67:31589/play/a00v/index.m3u8
-
-
-#EXTINF:-1 channel-id="pluto-5dd834c66fe2ca0009303b8d" tvg-id="5dd834c66fe2ca0009303b8d" tvg-chno="273" tvg-logo="https://images.pluto.tv/channels/5dd834c66fe2ca0009303b8d/colorLogoPNG.png" group-title="Curiosidad",Pluto TV Animales
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-
-#EXTINF:-1 channel-id="pluto-5dd85eac039bba0009e86d1d" tvg-id="5dd85eac039bba0009e86d1d" tvg-chno="271" tvg-logo="https://images.pluto.tv/channels/5dd85eac039bba0009e86d1d/colorLogoPNG.png" group-title="Curiosidad",Pluto TV Naturaleza
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-id="179374" tvg-name="DIRECT TV SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg" group-title="00 - Argentina", DIRECT TV SPORTS
 http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8?PlaylistM3UCL
