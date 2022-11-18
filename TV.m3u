@@ -169,7 +169,6 @@ https://mediacpstreamchile.com:1936/evavision/evavision/playlist.m3u8
 #EXTINF:-1 tvg-id="185830" tvg-name="BAYRES TV " tvg-logo="https://pbs.twimg.com/profile_images/3218050884/c2625c504f541d48a96442d5d1dacb87_400x400.jpeg" group-title="00 - Argentina", BAYRES TV 
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8?PlaylistM3UCL
 
-
 #EXTINF:-1 tvg-id="DANTV.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="" group-title="Undefined",DAN TV (720p) [Not 24/7]
 http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/playlist.m3u8
 
