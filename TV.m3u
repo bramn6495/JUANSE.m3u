@@ -117,17 +117,6 @@ https://d2byzrnrdb259r.cloudfront.net/hls/live.m3u8
 #EXTINF:-1 tvg-id="CentralTV.pe" tvg-logo="https://i.imgur.com/YI9n4wL.png" group-title="Entertainment",Central TV (Chosica) (614p) [Not 24/7]
 https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="146" tvg-name="Promar TV" tvg-logo="https://lh3.googleusercontent.com/-9BWoKXWGkL8/Xxzv1rANFBI/AAAAAAAA3aw/DiZRzBM-OpgDJ_m32kNsUqCXr9qBjincgCK8BGAsYHg/s0/2020-07-25.png", Promar TV | VE
-https://vcp.myplaytv.com/promar/promar/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="518" tvg-name="TVS Maracay" tvg-logo="https://lh3.googleusercontent.com/-opdSbo77LkM/YEtiwd5aljI/AAAAAAABAkw/zfF3b8WRKCkMiaVpD4zlHy0siTQmvlXRgCK8BGAsYHg/s512/2021-03-12.png", TVS Maracay | VE
-https://vcp3.myplaytv.com/tvs/tvs/playlist.m3u8?PlaylistM3UCL
-
-
-#EXTINF:-1 tvg-id="1224" tvg-name="TRV" tvg-logo="https://i2.paste.pics/691fbd76ac69d53faecf3480cecd4826.png", TRV | VE
-https://vcp3.myplaytv.com/trv/trv/playlist.m3u8?PlaylistM3UCL
-
-
 #EXTINF:-1 tvg-id="1228" tvg-name="Telesol" tvg-logo="https://i2.paste.pics/6ce00e14d50fd87b8553b9c96201de3d.png", Telesol | VE
 https://vcp2.myplaytv.com/telesol/telesol/playlist.m3u8?PlaylistM3UCL
 
@@ -146,9 +135,6 @@ http://190.61.102.67:31589/play/a01s/index.m3u8
 
 #EXTINF:-1 tvg-id="161371" tvg-name=" MiTV " tvg-logo="" group-title="01-ARGENTINA",  MiTV 
 https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="1055" tvg-name="Mega Cine TV" tvg-logo="https://i2.paste.pics/07307891d4155ebc2537e54f1407ca1f.png", Mega Cine TV | DO
-https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="CINE",  MC
 http://190.61.102.67:31589/play/a01o/index.m3u8
@@ -199,9 +185,6 @@ http://190.61.102.67:31589/play/a04o/index.m3u8
 #EXTINF:-1 tvg-id="897" tvg-name="Retro Play TV" tvg-logo="https://i2.paste.pics/90f2f266cb4f68333119a06b99d65d10.png", Retro Play TV | CL
 https://v4.tustreaming.cl/retroplaytv/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="1140" tvg-name="Nitida TV" tvg-logo="https://i2.paste.pics/d0743d852c7c3b8f6f5996ac0780fefc.png", Nitida TV | DO
-https://live.teledomdr.com:3131/live/nitidatvlive.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-id="LaCaletaTV.do" tvg-logo="https://i.imgur.com/RKzdmV8.png" group-title="Undefined",La Caleta TV
 https://cdn4.hostlagarto.com:8081/static/lacaletatv/playlist.m3u8
 
@@ -211,6 +194,8 @@ https://cdn4.hostlagarto.com:8081/static/cromtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/logo_15701161341.jpg" group-title="Chileiptv" , VILLA TV 
 https://inliveserver.com:1936/10016/10016/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0qd.png" group-title="PRV", DHE HD
+http://190.83.119.67:8000/play/a0qd/index.m3u8
 
 #EXTINF:-1 tvg-id="732" tvg-name="Ready TV" tvg-logo="https://lh3.googleusercontent.com/-0WEp8Wwui4Q/Xzgal1m0fzI/AAAAAAAA4Uk/rYMFLqx6jsE342dqmqaCzFKNyfygiuIzQCK8BGAsYHg/s0/2020-08-15.png", Ready TV | DO
 http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8?PlaylistM3UCL
@@ -220,9 +205,6 @@ https://tv.ghtelevision.com:3018/live/ghtelevisionlive.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="CascaraTV.do" tvg-logo="https://cascaratv.com/wp-content/uploads/2020/06/LOGO-CASCARA1.jpg" group-title="Undefined",Cáscara TV
 https://ss3.domint.net:3144/ctv_str/cascaratv/playlist.m3u8
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO",  SONY
-http://190.61.102.67:31589/play/a002/index.m3u8
 
 #EXTINF:-1 group-title="CINE",  TNT
 http://190.61.102.67:31589/play/a018/index.m3u8
@@ -248,10 +230,6 @@ http://190.83.119.67:8000/play/a0sh/index.m3u8
 
 #EXTINF:-1 tvg-id="Atrescine.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/512px-Atrescine_logo.svg.png" group-title="Movies",A3Cine (1080p)
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
-
-
-#EXTINF:-1 tvg-id="Crackle.us" tvg-logo="https://i.imgur.com/7vIsBfF.png" group-title="Movies",Crackle (XUMO) (1080p)
-http://crackle-xumo.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO",  SONY
 http://190.61.102.67:31589/play/a002/index.m3u8
