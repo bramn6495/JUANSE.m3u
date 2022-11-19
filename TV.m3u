@@ -28,8 +28,8 @@ https://servilive.com:3126/live/tele2000live.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-EuD3NFEVxqo/XwcVyOUbDHI/AAAAAAAA2mo/ZUkrO1nc7GQPy2ycgo8jROEUH3c9ASw-QCK8BGAsYHg/s0/2020-07-09.png" group-title="CHILE",UCV
 https://unlimited6-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="TelecineAction.br" tvg-logo="https://i.imgur.com/BHYWG0h.png" group-title="Movies",TELE CINE ACTION (720p)
-http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0si.png" group-title="PRV", STAR CHANNEL HD
+http://190.83.119.67:8000/play/a0si/index.m3u8
 
 #EXTINF:-1,Zoom Tv
 https://canalzoom.itex.com.co:3027/live/canalzoombr1live.m3u8
@@ -74,9 +74,6 @@ http://k4.usastreams.com/ARBtv/teleplus/chunklist_w499579538.m3u8?WebM3UCL&Playl
 #EXTINF:-1 tvg-id="SEOTV.bo" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/Seo.Tv.sat/picture?width=300&height=300" group-title="General",SEO TV (720p) [Not 24/7]
 https://panel.seo.tv.bo:3645/live/franzleonel0live.m3u8 
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO",  UNIVERSAL TV
-http://190.61.102.67:31589/play/a03d/index.m3u8
-
 #EXTINF:-1 group-title="CINE",  MULTIPREMIER
 http://190.61.102.67:31589/play/a01e/index.m3u8
 
@@ -89,7 +86,7 @@ http://190.61.102.67:31589/play/a05y/index.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO",  FX
 http://190.61.102.67:31589/play/a05z/index.m3u8
 
-#EXTINF:-1 group-title="CINE",  SPACE MX
+#EXTINF:-1 group-title="CINE",  SPACE 
 http://190.61.102.67:31589/play/a04x/index.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO",  A&E
@@ -193,6 +190,9 @@ https://s2.tvdatta.com:3849/hybrid/play.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="CINE",  CINECANAL 
 http://190.61.102.67:31589/play/a04q/index.m3u8
 
+#EXTINF:-1 group-title="ENTRETENIMIENTO",  UNIVERSAL TV
+http://190.61.102.67:31589/play/a03d/index.m3u8
+
 #EXTINF:-1 group-title="CINE",  STUDIO UNIVERSAL
 http://190.61.102.67:31589/play/a04o/index.m3u8
 
@@ -240,6 +240,11 @@ http://cm.hostlagarto.com:8081/Hmtv/hmtv.myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="1020" tvg-name="Caracola TV" tvg-logo="https://i2.paste.pics/1c5801e48a6cf804950bd1ce5e78a303.png", Caracola TV * | CL
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0oy.png" group-title="PRV", Canal Claro
+http://190.83.119.67:8000/play/a0oy/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0sh.png" group-title="PRV", Claro Cinema
+http://190.83.119.67:8000/play/a0sh/index.m3u8
 
 #EXTINF:-1 tvg-id="Atrescine.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/512px-Atrescine_logo.svg.png" group-title="Movies",A3Cine (1080p)
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
@@ -248,15 +253,11 @@ https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
 #EXTINF:-1 tvg-id="Crackle.us" tvg-logo="https://i.imgur.com/7vIsBfF.png" group-title="Movies",Crackle (XUMO) (1080p)
 http://crackle-xumo.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 group-title="ENTRETENIMIENTO",  SONY
+http://190.61.102.67:31589/play/a002/index.m3u8
 
-#EXTINF:-1 tvg-id="PersianaPlus.fr" tvg-logo="https://i.imgur.com/r5q3S7a.png" group-title="Movies",Persiana Plus (1080p)
-http://51.210.199.21/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="PersianaComedy.fr" tvg-logo="https://i.imgur.com/0SxqumE.png" group-title="Comedy;Movies",Persiana Comedy (720p)
-http://51.210.199.27/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="PersianaFamily.fr" tvg-logo="https://i.imgur.com/0AxTJ4Z.png" group-title="Movies",Persiana Family (720p)
-http://51.210.199.19/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0qc.png" group-title="PRV", Sony Movies HD
+http://190.83.119.67:8000/play/a0qc/index.m3u8
 
 #EXTINF:-1 tvg-id="163063" tvg-name="ZONDA TV SAN JUAN" tvg-logo="" group-title="Sin Categoria", ZONDA TV SAN JUAN
 https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8?PlaylistM3UCL
@@ -327,6 +328,12 @@ http://190.61.102.67:31589/play/a017/index.m3u8
 #EXTINF:-1 group-title="CONOCIMIENTO", HISTORY 2
 http://190.61.102.67:31589/play/a00v/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0q4.png" group-title="PRV", Animal Planet HD
+http://190.83.119.67:8000/play/a0q4/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0qq.png" group-title="PRV", CDN2- RD
+http://190.83.119.67:8000/play/a0qq/index.m3u8
+
 #EXTINF:-1 tvg-id="179374" tvg-name="DIRECT TV SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg" group-title="00 - Argentina", DIRECT TV SPORTS
 http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8?PlaylistM3UCL
 
@@ -346,12 +353,23 @@ http://190.61.102.67:31589/play/a064/index.m3u8
 #EXTINF:-1 group-title="DEPORTES",  ESPN 2
 http://190.61.102.67:31589/play/a063/index.m3u8
 
- 
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0t6.png" group-title="PRV", ESPN 2 HD
+http://190.83.119.67:8000/play/a0t6/index.m3u8
+
 #EXTINF:-1 group-title="DEPORTES",  ESPN3
 http://190.61.102.67:31589/play/a03n/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0t5.png" group-title="PRV", ESPN 3 HD
+http://190.83.119.67:8000/play/a0t5/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0py.png" group-title="PRV", ESPN  +
+http://190.83.119.67:8000/play/a0py/index.m3u8
+
 #EXTINF:-1 group-title="DEPORTES",  Claro Sport
 http://190.61.102.67:31589/play/a053/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0on.png" group-title="PRV", Claro Sports 2 HD
+http://190.83.119.67:8000/play/a0on/index.m3u8
 
 #EXTINF:-1 tvg-id="175154" tvg-name="BEIN SPORTS XTRA �" tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" group-title="00 - Deportes", BEIN SPORTS XTRA �
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a121ad30-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ac3bc3c0-b26f-4c9c-8c94-988af191404a&userId=&serverSideAds=true&PlaylistM3UCL
