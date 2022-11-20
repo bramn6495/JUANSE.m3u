@@ -34,6 +34,7 @@ http://190.83.119.67:8000/play/a0si/index.m3u8
 #EXTINF:-1,Zoom Tv
 https://canalzoom.itex.com.co:3027/live/canalzoombr1live.m3u8
 
+
 #EXTINF:-1 tvg-id="Telemax.do" tvg-logo="https://telemaxrd.com.do/wp-content/uploads/2022/03/cropped-44-1-e1648229019417.png" group-title="Undefined",Telemax
 https://cdn2.streamgato.us/telemax/telemax/playlist.m3u8
 
