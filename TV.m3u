@@ -16,8 +16,6 @@ https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/master.m3u8
 #EXTINF:-1 tvg-id="SEOTVNovelas.bo" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/Seo.Tv.sat/picture?width=300&height=300" group-title="Series",SEO TV Novelas (540p) [Not 24/7]
 https://panel.seo.tv.bo:3337/live/franzbalboa2live.m3u8
 
-
-
 #EXTINF:-1 tvg-id="1032" tvg-name="13 Teleseries" tvg-logo="https://i2.paste.pics/863aea4fb1445b58f89afc7c692ed509.png", 13 Teleseries | CL
 https://unlimited1-cl-isp.dps.live/13t/13t.smil/playlist.m3u8?PlaylistM3UCL
 
