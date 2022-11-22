@@ -3,18 +3,11 @@
 #EXTINF:-1 tvg-logo="http://www.canalcinemaplus.net/wp-content/uploads/2013/07/logo.png" group-title="CINEYSERIES", CINEMA PLUS
 https://hvtrafico.ddns.net/cinema720/cinema720.stream_720p/playlist.m3u8
 
-
-#EXTINF:-1,Tele Islas
-https://5ab772334c39c.streamlock.net/live-teleislas/_definst_/teleislas/chunklist_w1984326701.m3u8
-
 #EXTINF:-1 tvg-id="186550" tvg-name="CGTN ESPA�OL " tvg-logo="https://pbs.twimg.com/profile_images/1328910145783414785/MKeuNn8V_400x400.jpg" group-title="01-ARGENTINA", CGTN ESPA�OL 
 http://livees.cgtn.com/1000e/prog_index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="Novelisima.us" tvg-logo="https://www.novelisima.com/assets/images/logo.png" group-title="Series",Novelísima [Not 24/7]
 https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/master.m3u8
-
-#EXTINF:-1 tvg-id="SEOTVNovelas.bo" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/Seo.Tv.sat/picture?width=300&height=300" group-title="Series",SEO TV Novelas (540p) [Not 24/7]
-https://panel.seo.tv.bo:3337/live/franzbalboa2live.m3u8
 
 #EXTINF:-1 tvg-id="1032" tvg-name="13 Teleseries" tvg-logo="https://i2.paste.pics/863aea4fb1445b58f89afc7c692ed509.png", 13 Teleseries | CL
 https://unlimited1-cl-isp.dps.live/13t/13t.smil/playlist.m3u8?PlaylistM3UCL
@@ -30,8 +23,6 @@ https://unlimited6-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0si.png" group-title="PRV", STAR CHANNEL HD
 http://190.83.119.67:8000/play/a0si/index.m3u8
-
-
 
 #EXTINF:-1,Zoom Tv
 https://canalzoom.itex.com.co:3027/live/canalzoombr1live.m3u8
@@ -54,8 +45,6 @@ https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MegaTVYacuiba.bo" tvg-logo="https://i.imgur.com/FDUkpBQ.png" group-title="Undefined",MegaTV (Yacuiba) (720p) [Not 24/7]
 https://stmv.panel.grupolimalive.com/mega/mega/playlist.m3u8
-
-
 
 #EXTINF:-1 tvg-id="MyTimemovienetworkMexico.mx" tvg-logo="https://od.lk/s/MF8yMjU5ODE1MzJf/MyTime_260x260.png" group-title="Movies",MyTime movie network Mexico (720p)
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
@@ -96,9 +85,6 @@ http://190.61.102.67:31589/play/a04x/index.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO",  A&E
 http://190.61.102.67:31589/play/a03f/index.m3u8
-
-#EXTINF:-1,Tvc
-https://d6op0qag07k4o.cloudfront.net/hls/tvc_480.m3u8
 
 #EXTINF:-1 tvg-id="240" tvg-name="GEN TV" tvg-logo="https://lh3.googleusercontent.com/-C5rX_zRruQw/X1TKqOXYS-I/AAAAAAAA5UA/IOKCb1AwbRsqtVnLmUBAvTj-8pnxmF7MgCK8BGAsYHg/s0/2020-09-06.png", GEN TV | AR
 https://inliveserver.com:1936/14056/14056/playlist.m3u8?PlaylistM3UCL
