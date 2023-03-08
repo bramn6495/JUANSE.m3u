@@ -31,10 +31,10 @@ https://panel.seo.tv.bo:3645/live/franzleonel0live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SEO TV 4 PELICULAS" tvg-logo="https://seo.tv.bo/LOGOS/LOGO_SEO_TV_PELICULAS_HD.png" group-title="SEO TV NORMAL",4 | SEO TV 4 PELICULAS
 	https://live.seo.tv.bo/live/4SEO.m3u8
 	
-	#EXTINF:-1 tvg-id="" tvg-name="SEO TV 6" tvg-logo="https://seo.tv.bo/LOGOS/LOGO_SEO_TV_6_HD.png" group-title="SEO TV NORMAL",6 | SEO TV 6
+#EXTINF:-1 tvg-id="" tvg-name="SEO TV 6" tvg-logo="https://seo.tv.bo/LOGOS/LOGO_SEO_TV_6_HD.png" group-title="SEO TV NORMAL",6 | SEO TV 6
 	https://live.seo.tv.bo/live/6SEO.m3u8
 	
-	#EXTINF:-1 tvg-id="A&EMundo" group-title="Claro-COL", A&E Mundo
+
 http://190.131.228.59:8000/play/a05x/index.m3u8
 #EXTINF:-1 tvg-id="AMCSD" group-title="Claro-COL", AMC
 http://190.131.228.59:8000/play/a0r3/index.m3u8
