@@ -1,41 +1,8 @@
 
-
 #EXTM3U
 
-#*****************************
-#
-# Canales de TV y Radios online
-# Recopilado por: iLLuminati Dev Team
-# https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ
-#
-# Lista de reproducción: https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/IPTV/master/iPTV-Free-List_XXX.m3u
-#
-#*****************************
-#
-# Pueden usar esta lista en: PC, Mac, iPhone, Android, Linux, Raspberry Pi, Smart TV, etc.
-#
-#*****************************
-# Índice
-#   
-#   XXX Adultos
-#   
-#*****************************
-
-#EXTINF:-1 tvg-logo="http://saved.im/mtg4nda2znr0/img_iptv_logo.png" group-title="iPTV Free List", - 30/07/2021 Actualizado -
-
-#*****************************
-
-#EXTINF:-1 tvg-logo="" group-title="XXX Adultos", -[COLOR rojo]XXX Adultos[/COLOR]-
-
-#EXTM3U x-tvg-url="" tv-test="XXX.m3u"
-#EXTINF:-1 tvg-id="913" tvg-name="Miami TV" tvg-logo="https://www.m3u.cl/logo/913_Miami_TV.png", Miami TV | Mx
-https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="914" tvg-name="Miami TV Mexico" tvg-logo="https://www.m3u.cl/logo/914_Miami_TV_Mexico.png", Miami TV México | Mx
-https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="915" tvg-name="Jazmin TV" tvg-logo="https://www.m3u.cl/logo/915_Jazmin_TV.png", Jazmin TV | Nos
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="916" tvg-name="Sex TV" tvg-logo="https://www.m3u.cl/logo/916_Sex_TV.png", Sex TV | Ar
-https://59537faa0729a.streamlock.net/sextv/sextv/playlist.m3u8?PlaylistM3UCL
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8?Pla
 #EXTINF:-1 tvg-id="917" tvg-name="Russian" tvg-logo="https://www.m3u.cl/logo/917_Russian.png", | ruso Nos
 http://cdn.adultiptv.net/russian.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="918" tvg-name="Pornstar" tvg-logo="https://www.m3u.cl/logo/918_Pornstar.png", Pornstar | Nos
@@ -85,47 +52,5 @@ http://cdn.adultiptv.net/lesbian.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="946" tvg-name="Gay" tvg-logo="https://www.m3u.cl/logo/946_Gay.png", Gay | Nos
 http://cdn.adultiptv.net/gay.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="http://puu.sh/nvrR5/1bb233b647.png" group-title="XXX Adultos", Miami TV
-http://59ec5453559f0.streamlock.net:1935/mexicotv/smil:miamitvmexicoROKU/chunklist_b1896000.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DLEFDcv.png" group-title="XXX Adultos", Jasmin TV
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Logotipo_da_Playboy_TV.png" group-title="XXX Adultos", PlayboyX Tv
-http://live.redtraffic.xyz/latina.m3u8
-
-#EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="XXX Adultos", HOT
-http://live.redtraffic.xyz/blowjob.m3u8
-
-#EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="XXX Adultos", Dusk
-http://live.redtraffic.xyz/milf.m3u8
-
-#EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="XXX Adultos", Juice
-http://live.redtraffic.xyz/bigass.m3u8
-
-#EXTINF:-1 tvg-logo="http://totaltv.tv/oec/images/tv_channels/bdc6d5c54bd382de621a6c1ec682ff89.png" group-title="XXX Adultos", SEXTATION
-http://live.redtraffic.xyz/teen.m3u8
-
-#EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="XXX Adultos", You Porn
-http://live.redtraffic.xyz/pov.m3u8
-
-#EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="XXX Adultos", PenthouseX
-http://live.redtraffic.xyz/pornstar.m3u8
-
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/2/23/Sextreme.png" group-title="XXX Adultos", Sextreme
-http://live.redtraffic.xyz/fetish.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg" group-title="XXX Adultos", BRAZZERS
-http://live.redtraffic.xyz/bigtits.m3u8
-
-#EXTINF:-1 tvg-logo="https://s19.postimg.org/t9qpt32f7/HUSTLER.png" group-title="XXX Adultos", HustlerXXX
-http://live.redtraffic.xyz/bigdick.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.diesl.com/wp-content/uploads/2013/04/hustlertv.png" group-title="XXX Adultos", PrivateX
-http://live.redtraffic.xyz/cuckold.m3u8
-
-#EXTINF:-1 tvg-logo="http://vercanalestv.com/imagenes/redlight.png" group-title="XXX Adultos", RedlightX
-http://live.redtraffic.xyz/russian.m3u8
-
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/4/48/Logo_venus_out_color.jpg" group-title="XXX Adultos", VENUS
-http://live.redtraffic.xyz/interracial.m3u8
