@@ -1,6 +1,12 @@
 #EXTM3U
 
 
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="185084" tvg-name=" NET TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe8mRepMt027_9_N-xyGTLYQscqVc9T8dz_tzU7RxzVz2lRTlw6VeYOjLeybo9PgMvbCQ&usqp=CAU" group-title="00 - Argentina",  NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8?PlaylistM3UCL
 
@@ -113,7 +119,7 @@ https://s2.tvdatta.com:3753/hybrid/play.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1016" tvg-name="PlanetaTV Movies" tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png", PlanetaTV Movies | CL
 https://scl.edge.grupoz.cl/movie/live/movie.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="CascaraTV.do" tvg-logo="https://i.imgur.com/DEUR7mB.png" group-title="Undefined",C�scara TV
+#EXTINF:-1 tvg-id="CascaraTV.do" tvg-logo="https://i.imgur.com/DEUR7mB.png" group-title="Undefined",Cáscara TV
 https://ss3.domint.net:3144/ctv_str/cascaratv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CreoTV.pe" tvg-logo="https://i.imgur.com/jCAmrwt.png" group-title="General",CreoTV (Cajamarca) (720p) [Not 24/7]
@@ -131,9 +137,6 @@ http://190.131.228.59:8000/play/a0jf/index.m3u8
 #EXTINF:-1 tvg-id="MegaTV.bo" tvg-logo="https://i.imgur.com/3d4uiZF.png" group-title="Undefined",MegaTV (480p)
 https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MegaTVYacuiba.bo" tvg-logo="https://i.imgur.com/wAw2XJJ.png" group-title="Undefined",MegaTV (Yacuiba) (720p) [Not 24/7]
-https://stmv.panel.grupolimalive.com/mega/mega/playlist.m3u8
-
 #EXTINF:-1 tvg-id="LIFETIME" group-title="Claro-COL", Lifetime
 http://190.131.228.59:8000/play/a0hw/index.m3u8
 
@@ -146,11 +149,17 @@ https://rakuten-actionmovies-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="185561" tvg-name="WOW TV" tvg-logo="https://lh3.googleusercontent.com/-HpeYE76LC3U/XpNZeGRkVnI/AAAAAAAAx1I/w8gU81KqISsyhBab06b-c82cml45DUQgACK8BGAsYHg/s0/2020-04-12.png" group-title="Sin Categoria", WOW TV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8?PlaylistM3UCL&PlaylistM3UC
 
+#EXTINF:-1 tvg-id="CTV" tvg-logo="https://i.imgur.com/nLRLsPn.png" group-title="General",CTV
+https://vdo2.streamgato.us:3978/live/ctvlive.m3u8
+
 #EXTINF:-1 tvg-id="GDMTV.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i0.wp.com/www.gdm.do/wp-content/uploads/2020/01/Logo-GDM.png?w=696&ssl=1" group-title="Undefined",GDMTV (720p) [Not 24/7]
 https://ss2.domint.net:3200/gdm_str/gdmtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="844" tvg-name="Tele Caribe" tvg-logo="https://lh3.googleusercontent.com/-6MRGKA6xep4/YIjDNG_x63I/AAAAAAABCBQ/NDP9jxf642I5YMN0sfiBWwHVhq2eVSIWgCK8BGAsYHg/s512/2021-04-27.png", Tele Caribe | DO
 https://cloudflare.streamgato.us:3413/live/telecaribehdlive.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="TeleCibaoHD.do" tvg-logo="https://i.imgur.com/IpInp05.png" group-title="Undefined",TeleCibao (720p) [Not 24/7]
+http://cm.hostlagarto.com:8081/Telecibao/Telecibao/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Universal" group-title="Claro-COL", Universal
 http://190.131.228.59:8000/play/a040/index.m3u8
@@ -164,8 +173,17 @@ http://190.131.228.59:8000/play/a05p/index.m3u8
 #EXTINF:-1 tvg-id="ImagenUniversalTV.do" tvg-logo="https://imagenuniversaltv.com/wp-content/uploads/2022/03/Logo-imagen-Universal-TV-Horizontal-512-x-99.png" group-title="Undefined",Imagen Universal TV
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 
+#EXTINF:-1 tvg-id="Telemax.do" tvg-logo="https://i.imgur.com/QvKmjvV.png" group-title="Undefined",Telemax (1080p)
+https://cdn2.streamgato.us/telemax/telemax/playlist.m3u8
+
 #EXTINF:-1 tvg-id="185830" tvg-name="BAYRES TV " tvg-logo="https://pbs.twimg.com/profile_images/3218050884/c2625c504f541d48a96442d5d1dacb87_400x400.jpeg" group-title="00 - Argentina", BAYRES TV 
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="OrientalTV.do" tvg-logo="https://i.imgur.com/WHRYHaH.png" group-title="General",Oriental TV 
+https://paz.sytes.net:5443/live/streams/orientaltv.m3u8
+
+#EXTINF:-1 tvg-id="TeleOriental.do" tvg-logo="https://i.imgur.com/WV6lmco.png" group-title="Undefined",Tele Oriental (720p)
+https://vdo1.streamgato.us:3592/live/teleorientaldigitallive.m3u8
 
 #EXTINF:-1 tvg-id="NitidaTV.do" tvg-logo="https://i.imgur.com/z9JkxcM.png" group-title="Undefined",N�tida TV
 https://live.teledomdr.com:3131/live/nitidatvlive.m3u8
@@ -191,6 +209,9 @@ http://190.131.228.59:8000/play/a05g/index.m3u8
 #EXTINF:-1 tvg-id="1020" tvg-name="Caracola TV" tvg-logo="https://i.paste.pics/d4c6f55f55efbda0faf59a7835b568b7.png", Caracola TV | CL
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8?PlaylistM3Um3u8
 
+#EXTINF:-1 tvg-id="SensacionTV.do" tvg-logo="https://domintapi.com/images/station/domint1563img07-28-20211627493874.jpeg" group-title="Undefined",Sensación TV
+https://ss5.domint.net:3002/stv_str/sensaciontv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="1092" tvg-name="Planeta TV" tvg-logo="https://i2.paste.pics/4075185fbbf2ba30f8739d15c9e56298.png", Planeta TV | PE
 https://live.obslivestream.com/planetatv/index.m3u8?PlaylistM3UCL
 
@@ -211,9 +232,6 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MyTimemovienetworkSpain.es" tvg-logo="https://od.lk/s/MF8yMjU5ODE1MzJf/MyTime_260x260.png" group-title="Movies",MyTime movie network Spain (1080p)
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NimTV.gt" tvg-logo="https://i.imgur.com/h7gFzWN.png" group-title="Undefined",Nim TV
-https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8ñ
 
 #EXTINF:-1 tvg-id="1228" tvg-name="Telesol" tvg-logo="https://i2.paste.pics/6ce00e14d50fd87b8553b9c96201de3d.png", Telesol | VE
 https://vcp2.myplaytv.com/telesol/telesol/playlist.m3u8?PlaylistM3UCL
@@ -359,6 +377,9 @@ https://live-hls-xgod.livepush.io/live_cdn/emaf6CHYV7M-RQcL2/index.m3u8?Playlist
 #EXTINF:-1 tvg-id="1199" tvg-name="D13" tvg-logo="https://i2.paste.pics/21803adf68e4ed46e638156868973edd.png", D13 | CL
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13d/13d.smil/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-id="CDNDeportes.do" tvg-logo="https://i.imgur.com/yU5LqTL.png" group-title="Undefined",CDN Deportes (480p)
+http://51.81.93.29:8084/hls/cdnsm.m3u8
+
 #EXTINF:-1 tvg-id="1179" tvg-name="Contacto Deportivo" tvg-logo="https://i2.paste.pics/7787d1d2ab3382cc09d2c3fa9bb8720d.png", Contacto Deportivo | PE
 https://live.obslivestream.com/cdeportivo/index.m3u8?PlaylistM3UCL
 
@@ -447,4 +468,4 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8?PlaylistM3
 https://cristianos2.todostreaming.es/live/malaga-livestream.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="873" tvg-name="EWTN" tvg-logo="https://lh3.googleusercontent.com/-3lr3InkQOSY/YKpaD_5GcMI/AAAAAAABCfU/W-_bV-aXlw0GngiTAXR6qo7WBBRxMuTzwCK8BGAsYHg/s512/2021-05-23.jpg", EWTN | US
-https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8?PlaylistM3UCL
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8?PlaylistM3UC
