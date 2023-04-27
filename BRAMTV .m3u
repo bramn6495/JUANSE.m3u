@@ -2,15 +2,6 @@
 
 
 
-#EXTM3U
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="185084" tvg-name=" NET TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe8mRepMt027_9_N-xyGTLYQscqVc9T8dz_tzU7RxzVz2lRTlw6VeYOjLeybo9PgMvbCQ&usqp=CAU" group-title="00 - Argentina",  NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8?PlaylistM3UCL
 
