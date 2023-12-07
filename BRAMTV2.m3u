@@ -50,6 +50,9 @@ https://cloudflare.streamgato.us:3413/live/telecaribehdlive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="DO | Canal DTV" tvg-name="DO | Canal DTV" tvg-logo="https://4.bp.blogspot.com/-nhpRS1doQRI/XbhaHAcFiuI/AAAAAAAADpE/Iy1prbxqYJ0EMdGGIbnWZZmR2BhjSNxWACK4BGAYYCw/s1600/CANAL%2BDTV%2BLOGO%2BNUEVO.png" group-title="REPUBLICA DOMINICANA", DTV
 https://emisoras.hn:8081/dtv/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cine y Series", Villa TV
+https://inliveserver.com:1936/10016/10016/chunklist_w1357319705.m3u8
+
 #EXTINF:-1 tvg-id="1200" tvg-name="Bayres TV" tvg-logo="https://i2.paste.pics/1379fe5bb8fd807ea046564b62f40acb.png", Bayres TV 
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8?PlaylistM3UCL
 
@@ -116,6 +119,13 @@ http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="PE | Antares TV Tarapoto" tvg-name="PE | Antares TV Tarapoto" tvg-logo="https://www.coolstreaming.us/img/ch/image88527916465.jpg" group-title="PROVINCIALES",  Antares Televisi�n 
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="USA | Cine Premium" tvg-name="USA | Cine Premium" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-premium.png" group-title="PELICULAS Y SERIES", 123 | Cine Premium
+http://177.234.230.226:8010/play/a00f/index.m3u8
+#EXTINF:-1 tvg-id="USA | Cine Hispano" tvg-name="USA | Cine Hispano" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-hispano-us.png" group-title="PELICULAS Y SERIES", 124 | Cine Hispano
+http://191.97.60.193:10000/play/a02x/index.m3u8
+#EXTINF:-1 tvg-id="USA | Cine Familiar" tvg-name="USA | Cine Familiar" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-familiar.png" group-title="PELICULAS Y SERIES", 125 | Cine Familiar
+http://191.97.60.193:10000/play/a02w/index.m3u8
 
 #EXTINF:-1 tvg-id="1388" tvg-name="Coto Brus TV" tvg-logo="https://i.paste.pics/c7d14354d2fccf75475fa6dbf0a31991.png", Coto Brus TV 
 https://cloudvideo.servers10.com:8081/8030/index.m3u8?PlaylistM3UCL
