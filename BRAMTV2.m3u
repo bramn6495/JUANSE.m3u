@@ -20,9 +20,6 @@ http://177.53.153.21:8001/play/a07a/index.m3u8
 "Entretenimiento",PLUTO TV NOVELAS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde0cc2efd2700090b7ff4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="" tvg-name="SEO TV 3 NVLS" tvg-logo="https://seo.tv.bo/LOGOS/LOGO_SEO_TV_NOVELAS_HD.png" group-title="SEO TV NORMAL",3 | SEO TV 3 NVLS
-	https://live.seo.tv.bo/live/SEO3.m3u8
-
 #EXTINF:-1 tvg-id="KanalDDrama.tr" tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="Series",Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 
@@ -32,9 +29,6 @@ https://v3.playerlatino.live/stream/m3u8/413
 #EXTINF:-1 tvg-id="VE | Promociones Telemaracay C.A." tvg-name="VE | Promociones Telemaracay C.A." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TVS_Venezuela.png" group-title="VENEZUELA", TVS 
 https://vcp3.myplaytv.com/tvs/tvs/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SEO TV 1" tvg-logo="https://seo.tv.bo/LOGOS/LOGO_SEO_TV_HD.png" group-title="SEO TV NORMAL",1 | SEO TV 1
-https://live.seo.tv.bo/live/SEO1.m3u8
-
 #EXTINF:-1 tvg-id="CascaraTV.do" tvg-logo="https://i.imgur.com/DEUR7mB.png" group-title="Undefined",Cáscara TV
 https://ss3.domint.net:3144/ctv_str/cascaratv/playlist.m3u8
 
@@ -43,9 +37,6 @@ https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="CTVCanal76.do" tvg-logo="https://i.imgur.com/nLRLsPn.png" group-title="General",CTV 
 https://vdo2.streamgato.us:3978/live/ctvlive.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="SEO TV 4 PELICULAS" tvg-logo="https://seo.tv.bo/LOGOS/LOGO_SEO_TV_PELICULAS_HD.png" group-title="SEO TV NORMAL",4 | SEO TV 4 PELICULAS
-	https://live.seo.tv.bo/live/SEO4.m3u8
 
 #EXTINF:-1,TV MAX 🇵🇦 
 https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8?
@@ -74,12 +65,6 @@ https://paz.sytes.net:5443/live/streams/orientaltv.m3u8
 #EXTINF:-1 tvg-id="PE | Impacto Televisi�n" tvg-name="PE | Impacto Televisi�n" tvg-logo="https://graph.facebook.com/WWW.RADIOIMPACTODECAJAMARCA.COM.PE/picture? ancho=320&alto=320" group-title="REGIONALES",  Impacto Televisi�n  
 https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SEO TV 6" tvg-logo="https://seo.tv.bo/LOGOS/LOGO_SEO_TV_6_HD.png" group-title="SEO TV NORMAL",6 | SEO TV 6
-	https://live.seo.tv.bo/live/SEO6.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="SEO TV 7" tvg-logo="https://seo.tv.bo/LOGOS/LOGO_SEO_TV_7_HD.png" group-title="SEO TV NORMAL",7 | SEO TV 7
-	https://live.seo.tv.bo/live/SEO7.m3u8
-
 #EXTINF:-1 channel-id="pluto-5dcde437229eff00091b6c30" tvg-id="PLUTO TV CINE ESTELAR" tvg-chno="52" tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG.png" group-title="Películas" , Pluto TV Cine Estelar
 https://i.mjh.nz/PlutoTV/5dcde437229eff00091b6c30-alt.m3u8#EXTINF:-1 tvg-id="USA | TNT" tvg-name="USA | TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/115px-TNT_Logo_2016.svg.png" group-title="PELICULAS Y SERIES", 117 | TNT
 http://177.53.153.21:8001/play/a02b/index.m3u8
@@ -98,13 +83,6 @@ https://clientes.videostreaming.ar:19360/dititv/dititv.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="DO | Ready TV" tvg-name="DO | Ready TV" tvg-logo="https://readytelevision.com/wp-content/uploads/2020/09/Readytelevision-small.png" group-title="REPUBLICA DOMINICANA",   Ready TV
 https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8?DVR
-
-#EXTINF:-1 tvg-id="USA | Cine Premium" tvg-name="USA | Cine Premium" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-premium.png" group-title="PELICULAS Y SERIES", Cine Premium
-http://179.189.222.226:8000/play/ch49
-#EXTINF:-1 tvg-id="USA | Cine Hispano" tvg-name="USA | Cine Hispano" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-hispano-us.png" group-title="PELICULAS Y SERIES", Cine Hispano
-http://179.189.222.226:8000/play/ch51
-#EXTINF:-1 tvg-id="USA | Cine Familiar" tvg-name="USA | Cine Familiar" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-familiar.png" group-title="PELICULAS Y SERIES",  Cine Familiar
-http://179.189.222.226:8000/play/ch52
 
 #EXTINF:-1 tvg-id="1381" tvg-name="Maxima TV" tvg-logo="https://i.paste.pics/b1e1cd8a5f6df357a2028250a68a379c.png", Maxima TV 
 https://vivo.solumedia.com:19360/corrientes/corrientes.m3u8?PlaylistM3UCL
