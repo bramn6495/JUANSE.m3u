@@ -10,9 +10,6 @@ https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/512px-Las_Estrellas.svg.png" group-title="General",Las Estrellas Latin America
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 
-#EXTINF:-1 tvg-id="Novelisima.us" tvg-logo="https://i.imgur.com/8dUS3Ih.png" group-title="Series",Novelisima
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
-
 #EXTINF:-1 tvg-id="MX | Tlnovelas Latinoamérica" tvg-name="MX | Tlnovelas Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="NOVELAS", 60 | Tlnovelas Latinoamérica
 http://161.132.108.75:50001/play/a03u/index.m3u8
 
@@ -32,12 +29,6 @@ https://ss3.domint.net:3144/ctv_str/cascaratv/playlist.m3u8
 #EXTINF:-1 tvg-id="1055" tvg-name="Mega Cine TV" tvg-logo="https://i2.paste.pics/07307891d4155ebc2537e54f1407ca1f.png", Mega Cine TV
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="CTVCanal76.do" tvg-logo="https://i.imgur.com/nLRLsPn.png" group-title="General",CTV 
-https://vdo2.streamgato.us:3978/live/ctvlive.m3u8
-
-#EXTINF:-1,TV MAX 🇵🇦 
-https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8?
-
 #EXTINF:-1 tvg-id="844" tvg-name="Tele Caribe" tvg-logo="https://lh3.googleusercontent.com/-6MRGKA6xep4/YIjDNG_x63I/AAAAAAABCBQ/NDP9jxf642I5YMN0sfiBWwHVhq2eVSIWgCK8BGAsYHg/s512/2021-04-27.png", Tele Caribe 
 https://cloudflare.streamgato.us:3413/live/telecaribehdlive.m3u8?PlaylistM3UCL
 
@@ -47,8 +38,6 @@ https://emisoras.hn:8081/dtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cine y Series", Villa TV
 https://inliveserver.com:1936/10016/10016/chunklist_w1357319705.m3u8
 
-#EXTINF:-1 tvg-id="SEOTV4Peliculas.bo" tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="Movies",SEO TV 4 Películas (1080p)
-https://live.seo.tv.bo/live/SEO-4.m3u8
 
 #EXTINF:-1 tvg-id="1200" tvg-name="Bayres TV" tvg-logo="https://i2.paste.pics/1379fe5bb8fd807ea046564b62f40acb.png", Bayres TV 
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8?PlaylistM3UCL
@@ -393,14 +382,12 @@ https://live.obslivestream.com/cdeportivo/video.m3u8?token=ckPPAmBEYJtkr0&Playli
 #EXTINF:-1 tvg-id="DO | CDN Deportes" tvg-name="DO | CDN Deportes" tvg-logo="https://cdndeportes.com.do/wp-content/uploads/2022/02/Logo_CDNDeportes.svg" group-title="REPUBLICA DOMINICANA",  CDN Deportes 
 http://181.189.243.254:8000/play/a0qq/index.m3u8
 
-#EXTINF:-1 tvg-shift="0" group-title="CANALES VARIADOS",ESPN MX
-http://livex.pop-app.live/s4n/poplive/ch319/playlist.m3u8
-
-#EXTINF:-1 tvg-shift="0" group-title="CANALES VARIADOS",ESPN 2 MX
-http://livex.pop-app.live/s4n/poplive/ch542/playlist.m3u8
-
-#EXTINF:-1 tvg-shift="0" group-title="CANALES VARIADOS",ESPN 3 MX
-http://livex.pop-app.live/s4n/poplive/ch320/playlist.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", ESPN 1 MX HD
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/193.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", ESPN 2 MX FHD
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/194.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", ESPN 3 MX HD
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/195.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="MINO", ESPN 4 
 http://186.31.37.98:8000/play/a008/index.m3u8
