@@ -7,6 +7,9 @@ https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-id="285" tvg-name="Net TV" tvg-logo="https://lh3.googleusercontent.com/-NM-pmtTnvh0/XpNaN_29WCI/AAAAAAAAx1Q/VKhqWlMKOBAP6YkJdg7LV4_O44xn8gdwACK8BGAsYHg/s0/2020-04-12.png", NET TV
 https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-shift="0"  group-title="LOCALES",CANAL DE LAS ESTRELLAS
+http://181.78.105.146:2000/play/a00g/index.m3u8
+
 #EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/512px-Las_Estrellas.svg.png" group-title="General",Las Estrellas Latin America
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 
@@ -38,6 +41,12 @@ https://emisoras.hn:8081/dtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cine y Series", Villa TV
 https://inliveserver.com:1936/10016/10016/chunklist_w1357319705.m3u8
 
+#EXTINF:-1 tvg-shift="0"  group-title="ENTRETENIMIENTO",Universal
+http://181.78.105.146:2000/play/a03d/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="ENTRETENIMIENTO",SONY
+http://181.78.105.146:2000/play/a002/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="ENTRETENIMIENTO",WB
+http://181.78.105.146:2000/play/a01f/index.m3u8
 
 #EXTINF:-1 tvg-id="1200" tvg-name="Bayres TV" tvg-logo="https://i2.paste.pics/1379fe5bb8fd807ea046564b62f40acb.png", Bayres TV 
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8?PlaylistM3UCL
@@ -51,6 +60,17 @@ https://panel.dattalive.com:443/8068/8068/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="OrientalTV.do" tvg-logo="https://i.imgur.com/WHRYHaH.png" group-title="General",Oriental TV
 https://paz.sytes.net:5443/live/streams/orientaltv.m3u8
 
+#EXTINF:-1 tvg-shift="0"  group-title="CINE",MC
+http://181.78.105.146:2000/play/a01o/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="CINE",CineCanal O
+http://181.78.105.146:2000/play/a04q/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="CINE",Film&Arts
+http://181.78.105.146:2000/play/a08i/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="CINE",StudioUniversal
+http://181.78.105.146:2000/play/a04o/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="CINE",Paramount
+http://181.78.105.146:2000/play/a01s/index.m3u8
+
 #EXTINF:-1 tvg-id="CromTV.do" tvg-logo="https://i.imgur.com/jk1lkOV.png" group-title="Undefined",CromTV (480p)
 https://cnn.essastream.com:3333/live/cromtvlive.m3u8
 
@@ -59,6 +79,15 @@ https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
 
 #EXTINF:-1 tvg-id="1006" tvg-name="Neo TV" tvg-logo="https://i2.paste.pics/085efda10687fd80ddb05de1600f41e0.png", Neo TV 
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-shift="0"  group-title="ENTRETENIMIENTO",AXN
+http://181.78.105.146:2000/play/a05y/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="ENTRETENIMIENTO",FX
+http://181.78.105.146:2000/play/a05z/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="ENTRETENIMIENTO",Space MX
+http://181.78.105.146:2000/play/a04x/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="ENTRETENIMIENTO",A&E
+http://181.78.105.146:2000/play/a03f/index.m3u8
 
 #EXTINF:-1 tvg-id="288" tvg-name="Sicardi TV" tvg-logo="https://cdn.m3u.cl/logo/288_Sicardi_TV.png", Sicardi TV | AR
 https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8?PlaylistM3UCL
@@ -72,6 +101,8 @@ https://clientes.videostreaming.ar:19360/dititv/dititv.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="DO | Ready TV" tvg-name="DO | Ready TV" tvg-logo="https://readytelevision.com/wp-content/uploads/2020/09/Readytelevision-small.png" group-title="REPUBLICA DOMINICANA",   Ready TV
 https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8?DVR
 
+
+
 #EXTINF:-1 tvg-id="1381" tvg-name="Maxima TV" tvg-logo="https://i.paste.pics/b1e1cd8a5f6df357a2028250a68a379c.png", Maxima TV 
 https://vivo.solumedia.com:19360/corrientes/corrientes.m3u8?PlaylistM3UCL
 
@@ -80,6 +111,13 @@ https://live.obslivestream.com/reddigital/index.m3u8
 
 #EXTINF:-1 tvg-id="EC | Multicanal" tvg-name="EC | Multicanal" tvg-logo="https://www.multicanalcatamayo.com/wp-content/uploads/2018/10/logo- final-multicanal-web-listo.png" group-title="ECUADOR",  Multicanal
 https://multicanal.streamseguro.com/hls/streaming.m3u8
+
+#EXTINF:-1 tvg-shift="0"  group-title="CINE",TNT
+http://181.78.105.146:2000/play/a018/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="ENTRETENIMIENTO",TNTSE
+http://181.78.105.146:2000/play/a00m/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="ENTRETENIMIENTO",ComedyC
+http://181.78.105.146:2000/play/a04a/index.m3u8
 
 #EXTINF:-1 tvg-id="USA | HBO Signature" tvg-name="USA | HBO Signature" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/135px-HBO_Signature.svg.png" group-title="PELICULAS Y SERIES", 111 | HBO Signature
 http://187.102.208.108:50001/play/a03i/index.m3u8
@@ -336,11 +374,23 @@ https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="MX | El Chavo del 8 TV" tvg-name="MX | El Chavo del 8 TV" tvg-logo="https://pbs.twimg.com/media/Fp3p0zZXoAY_loW?format=png&name=small" group-title="Canales 24/7",  El Chavo del 8 TV
 https://6362ca6f1fc28.streamlock.net:443/elchavoplus/elchavoplus/playlist.m3u8
 
+#EXTINF:-1 tvg-shift="0"  group-title="KIDS",CartoonNetwork
+http://181.78.105.146:2000/play/a03k/index.m3u8
+
+#EXTINF:-1 tvg-shift="0"  group-title="KIDS",NICKELODEON
+http://181.78.105.146:2000/play/a014/index.m3u8
+
 #EXTINF:-1 channel-id="pluto-5ddd7c348520b40009c347e2" tvg-id="Nick Clasico" tvg-chno="730" tvg-logo="https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/colorLogoPNG.png" group-title="Kids" , Nick Clásico
 https://i.mjh.nz/PlutoTV/5ddd7c348520b40009c347e2-alt.m3u8
 
 #EXTINF:-1 tvg-id="USA | TeenNick" tvg-name="USA | TeenNick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/245px-TeenNick_2019_logo.svg.png" group-title="INFANTILES",  TeenNick
 http://181.189.243.254:8000/play/a0q1/index.m3u8
+
+#EXTINF:-1 tvg-shift="0"  group-title="KIDS",Discovery kids
+http://181.78.105.146:2000/play/a015/index.m3u8
+
+#EXTINF:-1 tvg-shift="0"  group-title="KIDS",DisneyJR
+http://181.78.105.146:2000/play/a03j/index.m3u8
 
 #EXTINF:-1 tvg-id="1019" tvg-name="Latino Kids TV" tvg-logo="https://i2.paste.pics/1902290cf19fb0c3de2fa9fa9a03a396.png", Latino Kids TV 
 https://6362ca6f1fc28.streamlock.net:443/8062/8062/playlist.m3u8?PlaylistM3UCL
@@ -357,9 +407,6 @@ http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8e2460502f204b225c89d644e88153a8.webp" group-title="Canales de Animacion", Anime Tv 
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SEOTV2Kids.bo" tvg-logo="https://i.imgur.com/BC0Ii7i.png" group-title="Kids",SEO TV 2 Kids (1080p)
-https://live.seo.tv.bo/live/SEO-2.m3u8
-
 #EXTINF:-1 tvg-id="1335" tvg-name="VariedTV" tvg-logo="https://i.paste.pics/afb90bf11a606a30ee4294c8b32cf9e4.png", VariedTV 
 https://6362ca6f1fc28.streamlock.net:443/8066/8066/playlist.m3u8?PlaylistM3UCL
 
@@ -372,8 +419,14 @@ https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1179" tvg-name="Contacto Deportivo" tvg-logo="https://cdn.m3u.cl/logo/1179_Contacto_Deportivo.png", Contacto Deportivo | PE
 https://live.obslivestream.com/cdeportivo/video.m3u8?token=ckPPAmBEYJtkr0&PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="DO | CDN Deportes" tvg-name="DO | CDN Deportes" tvg-logo="https://cdndeportes.com.do/wp-content/uploads/2022/02/Logo_CDNDeportes.svg" group-title="REPUBLICA DOMINICANA",  CDN Deportes 
-http://181.189.243.254:8000/play/a0qq/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="DEPORTES",ESPN
+http://181.78.105.146:2000/play/a064/index.m3u8
+
+#EXTINF:-1 tvg-shift="0"  group-title="DEPORTES",ESPN 2
+http://181.78.105.146:2000/play/a063/index.m3u8
+
+#EXTINF:-1 tvg-shift="0"  group-title="DEPORTES",ESPN3
+http://181.78.105.146:2000/play/a03n/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/2560px-Tigo_Sports_logo.svg.png" group-title="DEPORTES",TIGO SPORTS GT
 https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
@@ -381,16 +434,16 @@ https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="CR | Tigo Sports Costa Rica" tvg-name="CR | Tigo Sports Costa Rica" tvg-logo="https://play-lh.googleusercontent.com/6hNBaZu9_Ss-aBT6NOib7gTdU6fokNFqhOVCvGkIBjuLKXK6USX5fBfWsDfQjrD0L-A" group-title="DEPORTES", 240 | Tigo Sports Costa Rica
 http://170.82.37.21:8000/play/a047/index.m3u8
 
-#EXTINF:-1 tvg-id="DiscoveryKidsLiveLatinAmerica.br" tvg-logo="https://i.imgur.com/C0VEHXU.png" group-title="Kids",Discovery Kids FreeLive Latam (720p)
-https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist.m3u8
-
 #EXTINF:-1 tvg-id="MX | Claro Sports" tvg-name="MX | Claro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/150px-Claro_Sports_logo.svg.png" group-title="DEPORTES", 233 | Claro Sports
 http://190.6.202.162:8000/play/a014/index.m3u8
 #EXTINF:-1 tvg-id="MX | Claro Sports 2" tvg-name="MX | Claro Sports 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/ClaroSports2.png/revision/latest/scale-to-width-down/250?cb=20210423191014&path-prefix=es" group-title="DEPORTES", 234 | Claro Sports 2
 http://45.5.117.182:8000/play/a0e5/index.m3u8
 
-#EXTINF:-1 tvg-id="MX | Sky Sports" tvg-name="MX | Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/320px-Sky_Sports_logo_2017.svg.png" group-title="DEPORTES", 255 | Sky Sports
-http://45.5.117.182:8000/play/ihf9/index.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", D SPORTS HD
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/206.m3u8
+
+#EXTINF:-1 tvg-shift="0"  group-title="DEPORTES", SKY LA LIGA
+http://181.78.105.146:2000/play/a08m/index.m3u8
 
 #EXTINF:-1 tvg-id="175154" tvg-name="BEIN SPORTS XTRA Ñ" tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" group-title="00 - Deportes", BEIN SPORTS XTRA ?
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a121ad30-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ac3bc3c0-b26f-4c9c-8c94-988af191404a&userId=&serverSideAds=true&PlaylistM3UCL
@@ -415,6 +468,27 @@ https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="DEPORTE",MLB
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e66968a70f34c0007d050be/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-shift="0"  group-title="CONOCIMIENTO",Discovery
+http://181.78.105.146:2000/play/a03x/index.m3u8
+
+#EXTINF:-1 tvg-shift="0"  group-title="ENTRETENIMIENTO",Investigation Discovery La
+http://181.78.105.146:2000/play/a04y/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="ENTRETENIMIENTO",DH&H
+http://181.78.105.146:2000/play/a03g/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="ENTRETENIMIENTO",TLC
+http://181.78.105.146:2000/play/a03h/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="ENTRETENIMIENTO",Lifetime
+http://181.78.105.146:2000/play/a01i/index.m3u8
+
+#EXTINF:-1 tvg-shift="0"  group-title="CONOCIMIENTO",NatGeo
+http://181.78.105.146:2000/play/a01l/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="CONOCIMIENTO",History
+http://181.78.105.146:2000/play/a017/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="CONOCIMIENTO",History2
+http://181.78.105.146:2000/play/a00v/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="MUSICA",Arts
+http://181.78.105.146:2000/play/a04j/index.m3u8
 
 #EXTINF:-1 channel-id="pluto-5dd85eac039bba0009e86d1d" tvg-id="Pluto Tv Naturaleza" tvg-chno="271" tvg-logo="https://images.pluto.tv/channels/5dd85eac039bba0009e86d1d/colorLogoPNG.png" group-title="Curiosidad" , Pluto TV Naturaleza
 https://i.mjh.nz/PlutoTV/5dd85eac039bba0009e86d1d-alt.m3u8
