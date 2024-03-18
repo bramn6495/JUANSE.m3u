@@ -13,6 +13,9 @@ http://181.78.105.146:2000/play/a00g/index.m3u8
 #EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/512px-Las_Estrellas.svg.png" group-title="General",Las Estrellas Latin America
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 
+#EXTINF:-1 tvg-id="CO | RCN Novelas" tvg-name="CO | RCN Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RCN_Novelas_logo_2019.png/205px-RCN_Novelas_logo_2019.png" group-title="NOVELAS",  RCN Novelas
+http://138.59.177.34:8000/play/a040/index.m3u8
+
 #EXTINF:-1 tvg-id="MX | Tlnovelas Latinoamérica" tvg-name="MX | Tlnovelas Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="NOVELAS", 60 | Tlnovelas Latinoamérica
 http://161.132.108.75:50001/play/a03u/index.m3u8
 
@@ -278,6 +281,21 @@ https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 #EXTINF:-1 tvg-id="HN | Sula TV" tvg-name="HN | Sula TV" tvg-logo="https://pbs.twimg.com/media/FjpjC6aWYAAxZTs?format=png&name=small" group-title="HONDURAS", Sula TV 
 https://sulatv1.ddns.net/hls/live/index.m3u8
 
+http://138.59.177.34:8000/play/a05t/index.m3u8
+#EXTINF:-1 tvg-id="USA | Cinemax" tvg-name="USA | Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/175px-Cinemax_%28Yellow%29.svg.png" group-title="PELICULAS Y SERIES", 100 | Cinemax
+http://190.61.55.186:1010/play/a022/index.m3u8
+#EXTINF:-1 tvg-id="USA | HBO" tvg-name="USA | HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/125px-HBO_logo.svg.png" group-title="PELICULAS Y SERIES", 101 | HBO
+http://138.59.177.34:8000/play/a01m/index.m3u8
+#EXTINF:-1 tvg-id="USA | HBO 2" tvg-name="USA | HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/149px-HBO2_logo.svg.png" group-title="PELICULAS Y SERIES", 102 | HBO 2
+http://168.227.22.18:1935/live/mobile-094/playlist.m3u8
+#EXTINF:-1 tvg-id="USA | HBO+" tvg-name="USA | HBO +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/125px-Logohboplus2019.svg.png" group-title="PELICULAS Y SERIES", 103 | HBO +
+http://138.59.177.34:8000/play/a01o/index.m3u8
+#EXTINF:-1 tvg-id="USA | HBO Family" tvg-name="USA | HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/130px-HBO_Family.svg.png" group-title="PELICULAS Y SERIES", 104 | HBO Family
+http://138.59.177.34:8000/play/a01p/index.m3u8
+#EXTINF:-1 tvg-id="USA | HBO Xtreme" tvg-name="USA | HBO Xtreme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/130px-HBO_Xtreme.svg.png" group-title="PELICULAS Y SERIES", 105 | HBO Xtreme
+http://138.59.177.34:8000/play/a01q/index.m3u8
+#EXTINF:-1 tvg-id="USA | HBO Pop" tvg-name="USA | HBO Pop" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/130px-HBO_Pop.svg.png" group-title="PELICULAS Y SERIES", 106 | HBO Pop
+
 #EXTINF:-1 tvg-id="LaCaletaTV.do" tvg-logo="https://i.imgur.com/EfMtOja.png" group-title="Undefined",La Caleta TV (360p)
 https://rdn.essastream.com:3168/live/lacaletatvlive.m3u8
 
@@ -427,6 +445,22 @@ http://181.78.105.146:2000/play/a063/index.m3u8
 
 #EXTINF:-1 tvg-shift="0"  group-title="DEPORTES",ESPN3
 http://181.78.105.146:2000/play/a03n/index.m3u8
+
+#EXTINF:-1 tvg-id="USA | ESPN" tvg-name="USA | ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/150px-ESPN_wordmark.svg.png" group-title="DEPORTES", ESPN
+http://bantel.iptvperu.tv:1935/transcoderip/ESPN_t2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="USA | ESPN 2" tvg-name="USA | ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/180px-ESPN2_logo.svg.png" group-title="DEPORTES", ESPN 2
+http://bantel.iptvperu.tv:1935/transcoderip/ESPN2_t2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="USA | ESPN 3" tvg-name="USA | ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/180px-ESPN3_Logo.png" group-title="DEPORTES", ESPN 3
+http://bantel.iptvperu.tv:1935/transcoderip/ESPN3_t2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="USA | ESPN 4" tvg-name="USA | ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/180px-ESPN_4_logo.svg.png" group-title="DEPORTES", ESPN 4
+http://bantel.iptvperu.tv:1935/transcoderip/ESPN4_t2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="USA | ESPN 5" tvg-name="USA | ESPN 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/180px-ESPN_5_logo.svg.png" group-title="DEPORTES", ESPN 5
+http://bantel.iptvperu.tv:1935/transcoderip/ESPN5_t2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="USA | ESPN 6" tvg-name="USA | ESPN 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/180px-ESPN_6_logo.svg.png" group-title="DEPORTES", ESPN 6
+http://bantel.iptvperu.tv:1935/transcoderip/ESPN6_t2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="USA | ESPN 7" tvg-name="USA | ESPN 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/175px-ESPN_7_logo.svg.png" group-title="DEPORTES", ESPN 7
+http://bantel.iptvperu.tv:1935/transcoderip/ESPN7_t2.stream/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/2560px-Tigo_Sports_logo.svg.png" group-title="DEPORTES",TIGO SPORTS GT
 https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
