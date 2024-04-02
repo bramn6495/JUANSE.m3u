@@ -100,9 +100,6 @@ http://181.78.105.146:2000/play/a03f/index.m3u8
 #EXTINF:-1 tvg-id="288" tvg-name="Sicardi TV" tvg-logo="https://cdn.m3u.cl/logo/288_Sicardi_TV.png", Sicardi TV 
 https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="PE | Canal E Altomayo TV 8 (Evelyn SAC)" tvg-name="PE | Canal E Altomayo TV 8 (Evelyn SAC)" tvg-logo="https://evelynsac. com/img/logo_01.png" group-title="PROVINCIALES",  Altomayo
-https://stream.plixitv.live/westv/westv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="DO | Ready TV" tvg-name="DO | Ready TV" tvg-logo="https://readytelevision.com/wp-content/uploads/2020/09/Readytelevision-small.png" group-title="REPUBLICA DOMINICANA",   Ready TV
 https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8?DVR
 
@@ -140,9 +137,6 @@ http://191.97.60.193:10000/play/a02w/index.m3u8
 #EXTINF:-1 tvg-id="1388" tvg-name="Coto Brus TV" tvg-logo="https://i.paste.pics/c7d14354d2fccf75475fa6dbf0a31991.png", Coto Brus TV 
 https://cloudvideo.servers10.com:8081/8030/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="PE | Regi�n TV" tvg-name="PE | Regi�n TV" tvg-logo="https://regionteve.com/wp-content/uploads/2020/12/REGIONTV7. png" group-title="REGIONALES", Regi�n TV 
-https://servilive.com:3757/live/regiontvlive.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cine y Series", My Time Movie
 https://linear-261.frequency.stream/dist/univision/261/hls/master/playlist.m3u8
 
@@ -171,9 +165,6 @@ https://inliveserver.com:1936/14056/14056/playlist.m3u8?PlaylistM3UL
 
 #EXTINF:-1 tvg-id="PE | W Televisi�n" tvg-name="PE | W Televisi�n" tvg-logo="https://playmax.tv/wp-content/uploads/2022/11/OKLO. png" group-title="LOCALES", WTV
 https://live.obslivestream.com/wtv/index.m3u8
-
-#EXTINF:-1 tvg-id="GT | Guatv" tvg-name="GT | Guatv" tvg-logo="https://static.wixstatic.com/media/7acae1_8cd678c8791045eb8fab68a10b36a1f6~mv2.png" group-title= "GUATEMALA",  guatv 
-https://cdn.streamhispanatv.net:3589/live/guatvgtlive.m3u8
 
 #EXTINF:-1 tvg-id="697" tvg-name="Hechicera TV" tvg-logo="https://lh3.googleusercontent.com/-LBfErrZhDc0/XxzwqzgjMeI/AAAAAAAA3bI/HllaPXeqeGcCJFcSxg64LMBpAGFJk5EEACK8BGAsYHg/s0/2020-07-25.png", Hechicera TV 
 https://video.misistemareseller.com:443/corporationhc/corporationhc/playlist.m3u8?PlaylistM3UCL
@@ -223,9 +214,6 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8?Playl
 #EXTINF:-1 tvg-id="SensacionTV.do" tvg-logo="https://domintapi.com/images/station/domint1563img07-28-20211627493874.jpeg" group-title="Undefined",Sensación TV (360p)
 https://ss5.domint.net:3002/stv_str/sensaciontv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="HN | TV Copan" tvg-name="HN | TV Copan" tvg-logo="https://www.tvcopan.com/wp-content/uploads/2021/11/sello-tv-copan-768x321.png" group-title="HONDURAS",  TV Copan
-https://emisoras.hn:8081/tvcopan/index.m3u8
-
 #EXTINF:-1 tvg-id="484" tvg-name="Infinita TV Premium" tvg-logo="https://cdn.m3u.cl/logo/484_Infinita_TV_Premium.png", Infinita TV Premium | US
 https://s2.tvdatta.com:3753/hybrid/play.m3u8?PlaylistM3UCL
 
@@ -241,20 +229,11 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf968040ab7d8f181e6a6
 #EXTINF:-1 tvg-id="1228" tvg-name="Telesol" tvg-logo="https://i2.paste.pics/6ce00e14d50fd87b8553b9c96201de3d.png", Telesol 
 https://vcp2.myplaytv.com/telesol/telesol/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="PA | Nex" tvg-name="PA | Nex" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Nexnew.png/132px-Nexnew.png" group-title="PANAMÁ",  Nex
-http://181.189.243.254:8000/play/a0qw/index.m3u8
-
 #EXTINF:-1 tvg-id="BO | TV Show Oruro" tvg-name="BO | TV Show Oruro" tvg-logo="https://play-lh.googleusercontent.com/pN1aZEuwKrzn1ffaVWgnK1-AXQuIcBRqcbW8F2NK24Wdk2evewuglh2sxG2xIHlH6Qw=w240-h480-rw" group-title="BOLIVIA",  TV Show 
 http://tv.istbolivia.com:1935/tvshow/tvshow/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Telemax.do" tvg-logo="https://i.imgur.com/QvKmjvV.png" group-title="Undefined",Telemax 
 https://cdn2.streamgato.us/telemax/telemax/playlist.m3u8
-
-#EXTINF:-1 tvg-id="PE | Región TV" tvg-name="PE | Región TV" tvg-logo="https://regionteve.com/wp-content/uploads/2020/12/REGIONTV7.png" group-title="REGIONALES", | Región TV 
-https://servilive.com:3757/live/regiontvlive.m3u8
-
-#EXTINF:-1 tvg-id="HN | Sula TV" tvg-name="HN | Sula TV" tvg-logo="https://pbs.twimg.com/media/FjpjC6aWYAAxZTs?format=png&name=small" group-title="HONDURAS", Sula TV 
-https://sulatv1.ddns.net/hls/live/index.m3u8
 
 #EXTINF:-1 tvg-id="USA | HBO" tvg-name="USA | HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/125px-HBO_logo.svg.png" group-title="PELICULAS Y SERIES", HBO
 http://138.59.177.34:8000/play/a01m/index.m3u8
