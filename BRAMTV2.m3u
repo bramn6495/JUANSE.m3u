@@ -3,9 +3,9 @@
 
 #EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="News",CGTN Español 
 https://livees.cgtn.com/1000e/prog_index.m3u8
-	
-#EXTINF:-1 tvg-id="285" tvg-name="Net TV" tvg-logo="https://lh3.googleusercontent.com/-NM-pmtTnvh0/XpNaN_29WCI/AAAAAAAAx1Q/VKhqWlMKOBAP6YkJdg7LV4_O44xn8gdwACK8BGAsYHg/s0/2020-04-12.png", NET TV
-https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="USA | TNT Novelas" tvg-name="USA | TNT Novelas" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/TNT_Novelas_logo_2023.svg/revision/latest/scale-to-width-down/150?cb=20230621193156" group-title="NOVELAS", 57 | TNT Novelas
+http://138.59.177.34:8000/play/a02e/index.m3u8
 
 #EXTINF:-1 tvg-shift="0"  group-title="LOCALES",CANAL DE LAS ESTRELLAS
 http://181.78.105.146:2000/play/a00g/index.m3u8
@@ -38,11 +38,11 @@ https://emisoras.hn:8081/dtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cine y Series", Villa TV
 https://inliveserver.com:1936/10016/10016/chunklist_w1357319705.m3u8
 
-#EXTINF:-1 tvg-shift="0"  group-title="ENTRETENIMIENTO",Universal
+#EXTINF:-1 tvg-shift="0"  group-title="ENTRETENIMIENTO",Universal channel
 http://181.78.105.146:2000/play/a03d/index.m3u8
-#EXTINF:-1 tvg-shift="0"  group-title="CINE",StudioUniversal
+#EXTINF:-1 tvg-shift="0"  group-title="CINE",Studio Universal
 http://181.78.105.146:2000/play/a04o/index.m3u8
-#EXTINF:-1 tvg-shift="0"  group-title="ENTRETENIMIENTO",WB
+#EXTINF:-1 tvg-shift="0"  group-title="ENTRETENIMIENTO",WB channel
 http://181.78.105.146:2000/play/a01f/index.m3u8
 
 #EXTINF:-1 tvg-id="1200" tvg-name="Bayres TV" tvg-logo="https://i2.paste.pics/1379fe5bb8fd807ea046564b62f40acb.png", Bayres TV 
@@ -102,9 +102,9 @@ https://live.obslivestream.com/reddigital/index.m3u8
 
 #EXTINF:-1 tvg-shift="0"  group-title="CINE",TNT
 http://181.78.105.146:2000/play/a018/index.m3u8
-#EXTINF:-1 tvg-shift="0"  group-title="ENTRETENIMIENTO",TNTSE
+#EXTINF:-1 tvg-shift="0"  group-title="ENTRETENIMIENTO",TNT SERIES
 http://181.78.105.146:2000/play/a00m/index.m3u8
-#EXTINF:-1 tvg-shift="0"  group-title="ENTRETENIMIENTO",ComedyC
+#EXTINF:-1 tvg-shift="0"  group-title="ENTRETENIMIENTO",Comedy Center
 http://181.78.105.146:2000/play/a04a/index.m3u8
 
 #EXTINF:-1 tvg-shift="0"  group-title="ENTRETENIMIENTO",SONY
@@ -220,6 +220,9 @@ https://s2.tvdatta.com:3753/hybrid/play.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="GT | Nim TV" tvg-name="GT | Nim TV" tvg-logo="https://static.wixstatic.com/media/7acae1_a52030788e08407abb6f67a51e0d5276~mv2.png" group-title="GUATEMALA", Nim TV
 https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
 
+#EXTINF:-1 tvg-id="USA | Cinemax" tvg-name="USA | Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/175px-Cinemax_%28Yellow%29.svg.png" group-title="PELICULAS Y SERIES", 100 | Cinemax
+http://190.61.55.186:1010/play/a022/index.m3u8
+
 #EXTINF:0 tvg-id="CinecinemaPremier.fr" group-title="CINE",Cine Premiere
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -241,9 +244,6 @@ https://servilive.com:3757/live/regiontvlive.m3u8
 #EXTINF:-1 tvg-id="HN | Sula TV" tvg-name="HN | Sula TV" tvg-logo="https://pbs.twimg.com/media/FjpjC6aWYAAxZTs?format=png&name=small" group-title="HONDURAS", Sula TV 
 https://sulatv1.ddns.net/hls/live/index.m3u8
 
-http://138.59.177.34:8000/play/a05t/index.m3u8
-#EXTINF:-1 tvg-id="USA | Cinemax" tvg-name="USA | Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/175px-Cinemax_%28Yellow%29.svg.png" group-title="PELICULAS Y SERIES", 100 | Cinemax
-http://190.61.55.186:1010/play/a022/index.m3u8
 #EXTINF:-1 tvg-id="USA | HBO" tvg-name="USA | HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/125px-HBO_logo.svg.png" group-title="PELICULAS Y SERIES", 101 | HBO
 http://138.59.177.34:8000/play/a01m/index.m3u8
 #EXTINF:-1 tvg-id="USA | HBO 2" tvg-name="USA | HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/149px-HBO2_logo.svg.png" group-title="PELICULAS Y SERIES", 102 | HBO 2
@@ -316,14 +316,14 @@ https://marine2.miplay.cl/mxprime/playlist.m3u8
 #EXTINF:-1 tvg-id="1073" tvg-name="ATV Argentina" tvg-logo="https://i2.paste.pics/4e64ef1ad0267a25797ca662d9010e2a.png", ATV Argentina
 https://stream.arcast.com.ar/atbargentina/atbargentina/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="MX | Claro Cinema" tvg-name="MX | Claro Cinema" tvg-logo="https://trademarks.justia.com/media/og_image.php?serial=86830508" group-title="PELICULAS Y SERIES", 82 | Claro Cinema
-http://45.228.232.219:16000/play/a0na/index.m3u8
-
 #EXTINF:-1 channel-id="pluto-609059dc63be6e0007b4eca6" tvg-id="Pluto Tv Cine Clasico" tvg-chno="85" tvg-logo="https://images.pluto.tv/channels/609059dc63be6e0007b4eca6/colorLogoPNG.png" group-title="Películas" , Pluto TV Cine Clásico
 https://i.mjh.nz/PlutoTV/609059dc63be6e0007b4eca6-alt.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="CINE",*Pluto Tv Cine Clásico 2
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61373bb45168fe000773eecd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="MX | Claro Cinema" tvg-name="MX | Claro Cinema" tvg-logo="https://trademarks.justia.com/media/og_image.php?serial=86830508" group-title="PELICULAS Y SERIES",  Claro Cinema
+http://138.59.177.34:8000/play/a05b/index.m3u8
 
 #EXTINF:-1 tvg-id="MX | Filmex Clásico TV" tvg-name="MX | Filmex Clásico TV" tvg-logo="https://pbs.twimg.com/media/FuZ3-_VWYAU2ddp?format=png&name=240x240" group-title="PELICULAS Y SERIES",  Filmex Clásico TV
 https://vpngratis.win:8443/live/CineMexicano/gsL71cr7Fk/17.m3u8
